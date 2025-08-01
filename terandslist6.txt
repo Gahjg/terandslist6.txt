@@ -1,0 +1,1149 @@
+
+📊 Unique Trends
+----------------
+
+📊 Repeated Trends
+------------------
+1. 10551140 -> Small-Small-Big-Big-Small-Small-Small-Small
+2. 05511403 -> Small-Big-Big-Small-Small-Small-Small-Small
+3. 55114039 -> Big-Big-Small-Small-Small-Small-Small-Big
+4. 51140394 -> Big-Small-Small-Small-Small-Small-Big-Small
+5. 11403940 -> Small-Small-Small-Small-Small-Big-Small-Small
+6. 14039404 -> Small-Small-Small-Small-Big-Small-Small-Small
+7. 40394046 -> Small-Small-Small-Big-Small-Small-Small-Big
+8. 03940465 -> Small-Small-Big-Small-Small-Small-Big-Big
+9. 39404654 -> Small-Big-Small-Small-Small-Big-Big-Small
+10. 94046545 -> Big-Small-Small-Small-Big-Big-Small-Big
+11. 40465450 -> Small-Small-Small-Big-Big-Small-Big-Small
+12. 04654504 -> Small-Small-Big-Big-Small-Big-Small-Small
+13. 46545045 -> Small-Big-Big-Small-Big-Small-Small-Big
+14. 65450452 -> Big-Big-Small-Big-Small-Small-Big-Small
+15. 54504524 -> Big-Small-Big-Small-Small-Big-Small-Small
+16. 45045246 -> Small-Big-Small-Small-Big-Small-Small-Big
+17. 50452466 -> Big-Small-Small-Big-Small-Small-Big-Big
+18. 04524669 -> Small-Small-Big-Small-Small-Big-Big-Big
+19. 45246699 -> Small-Big-Small-Small-Big-Big-Big-Big
+20. 52466990 -> Big-Small-Small-Big-Big-Big-Big-Small
+21. 24669900 -> Small-Small-Big-Big-Big-Big-Small-Small
+22. 46699000 -> Small-Big-Big-Big-Big-Small-Small-Small
+23. 66990000 -> Big-Big-Big-Big-Small-Small-Small-Small
+24. 69900008 -> Big-Big-Big-Small-Small-Small-Small-Big
+25. 99000088 -> Big-Big-Small-Small-Small-Small-Big-Big
+26. 90000886 -> Big-Small-Small-Small-Small-Big-Big-Big
+27. 00008866 -> Small-Small-Small-Small-Big-Big-Big-Big
+28. 00088663 -> Small-Small-Small-Big-Big-Big-Big-Small
+29. 08866336 -> Small-Big-Big-Big-Big-Small-Small-Big
+30. 88663362 -> Big-Big-Big-Big-Small-Small-Big-Small
+31. 86633628 -> Big-Big-Big-Small-Small-Big-Small-Big
+32. 66336285 -> Big-Big-Small-Small-Big-Small-Big-Big
+33. 63362851 -> Big-Small-Small-Big-Small-Big-Big-Small
+34. 33628514 -> Small-Small-Big-Small-Big-Big-Small-Small
+35. 36285144 -> Small-Big-Small-Big-Big-Small-Small-Small
+36. 62851447 -> Big-Small-Big-Big-Small-Small-Small-Big
+37. 28514476 -> Small-Big-Big-Small-Small-Small-Big-Big
+38. 85144768 -> Big-Big-Small-Small-Small-Big-Big-Big
+39. 51447680 -> Big-Small-Small-Small-Big-Big-Big-Small
+40. 14476802 -> Small-Small-Small-Big-Big-Big-Small-Small
+41. 44768022 -> Small-Small-Big-Big-Big-Small-Small-Small
+42. 47680220 -> Small-Big-Big-Big-Small-Small-Small-Small
+43. 80220674 -> Big-Small-Small-Small-Small-Big-Big-Small
+44. 02206746 -> Small-Small-Small-Small-Big-Big-Small-Big
+45. 22067467 -> Small-Small-Small-Big-Big-Small-Big-Big
+46. 20674670 -> Small-Small-Big-Big-Small-Big-Big-Small
+47. 06746706 -> Small-Big-Big-Small-Big-Big-Small-Big
+48. 67467066 -> Big-Big-Small-Big-Big-Small-Big-Big
+49. 74670661 -> Big-Small-Big-Big-Small-Big-Big-Small
+50. 46706611 -> Small-Big-Big-Small-Big-Big-Small-Small
+51. 67066116 -> Big-Big-Small-Big-Big-Small-Small-Big
+52. 70661166 -> Big-Small-Big-Big-Small-Small-Big-Big
+53. 06611668 -> Small-Big-Big-Small-Small-Big-Big-Big
+54. 66116688 -> Big-Big-Small-Small-Big-Big-Big-Big
+55. 61166886 -> Big-Small-Small-Big-Big-Big-Big-Big
+56. 11668866 -> Small-Small-Big-Big-Big-Big-Big-Big
+57. 16688660 -> Small-Big-Big-Big-Big-Big-Big-Small
+58. 66886600 -> Big-Big-Big-Big-Big-Big-Small-Small
+59. 68866005 -> Big-Big-Big-Big-Big-Small-Small-Big
+60. 88660055 -> Big-Big-Big-Big-Small-Small-Big-Big
+61. 86600553 -> Big-Big-Big-Small-Small-Big-Big-Small
+62. 66005533 -> Big-Big-Small-Small-Big-Big-Small-Small
+63. 60055330 -> Big-Small-Small-Big-Big-Small-Small-Small
+64. 55330033 -> Big-Big-Small-Small-Small-Small-Small-Small
+65. 53300333 -> Big-Small-Small-Small-Small-Small-Small-Small
+66. 33003339 -> Small-Small-Small-Small-Small-Small-Small-Big
+67. 30033399 -> Small-Small-Small-Small-Small-Small-Big-Big
+68. 00333997 -> Small-Small-Small-Small-Small-Big-Big-Big
+69. 33997729 -> Small-Small-Big-Big-Big-Big-Small-Big
+70. 39977292 -> Small-Big-Big-Big-Big-Small-Big-Small
+71. 99772922 -> Big-Big-Big-Big-Small-Big-Small-Small
+72. 97729220 -> Big-Big-Big-Small-Big-Small-Small-Small
+73. 77292200 -> Big-Big-Small-Big-Small-Small-Small-Small
+74. 72922002 -> Big-Small-Big-Small-Small-Small-Small-Small
+75. 29220022 -> Small-Big-Small-Small-Small-Small-Small-Small
+76. 92200225 -> Big-Small-Small-Small-Small-Small-Small-Big
+77. 20022550 -> Small-Small-Small-Small-Small-Big-Big-Small
+78. 00225500 -> Small-Small-Small-Small-Big-Big-Small-Small
+79. 02255007 -> Small-Small-Small-Big-Big-Small-Small-Big
+80. 22550077 -> Small-Small-Big-Big-Small-Small-Big-Big
+81. 79933667 -> Big-Big-Big-Small-Small-Big-Big-Big
+82. 68811444 -> Big-Big-Big-Small-Small-Small-Small-Small
+83. 11444422 -> Small-Small-Small-Small-Small-Small-Small-Small
+84. 32266112 -> Small-Small-Small-Big-Big-Small-Small-Small
+85. 11188999 -> Small-Small-Small-Big-Big-Big-Big-Big
+86. 93355009 -> Big-Small-Small-Big-Big-Small-Small-Big
+87. 35500992 -> Small-Big-Big-Small-Small-Big-Big-Small
+88. 09922117 -> Small-Big-Big-Small-Small-Small-Small-Big
+89. 49955666 -> Small-Big-Big-Big-Big-Big-Big-Big
+90. 99556666 -> Big-Big-Big-Big-Big-Big-Big-Big
+91. 95566664 -> Big-Big-Big-Big-Big-Big-Big-Small
+92. 69988330 -> Big-Big-Big-Big-Big-Small-Small-Small
+93. 77339990 -> Big-Big-Small-Small-Big-Big-Big-Small
+94. 73399900 -> Big-Small-Small-Big-Big-Big-Small-Small
+95. 33999005 -> Small-Small-Big-Big-Big-Small-Small-Big
+96. 39990055 -> Small-Big-Big-Big-Small-Small-Big-Big
+97. 95513701 -> Big-Big-Big-Small-Small-Big-Small-Small
+98. 55137014 -> Big-Big-Small-Small-Big-Small-Small-Small
+99. 51370145 -> Big-Small-Small-Big-Small-Small-Small-Big
+100. 13701454 -> Small-Small-Big-Small-Small-Small-Big-Small
+101. 37014548 -> Small-Big-Small-Small-Small-Big-Small-Big
+102. 70145483 -> Big-Small-Small-Small-Big-Small-Big-Small
+103. 01454833 -> Small-Small-Small-Big-Small-Big-Small-Small
+104. 14548339 -> Small-Small-Big-Small-Big-Small-Small-Big
+105. 45483399 -> Small-Big-Small-Big-Small-Small-Big-Big
+106. 54833999 -> Big-Small-Big-Small-Small-Big-Big-Big
+107. 48339994 -> Small-Big-Small-Small-Big-Big-Big-Small
+108. 83399949 -> Big-Small-Small-Big-Big-Big-Small-Big
+109. 33999497 -> Small-Small-Big-Big-Big-Small-Big-Big
+110. 39994976 -> Small-Big-Big-Big-Small-Big-Big-Big
+111. 99949765 -> Big-Big-Big-Small-Big-Big-Big-Big
+112. 99497653 -> Big-Big-Small-Big-Big-Big-Big-Small
+113. 94976537 -> Big-Small-Big-Big-Big-Big-Small-Big
+114. 49765375 -> Small-Big-Big-Big-Big-Small-Big-Big
+115. 97653755 -> Big-Big-Big-Big-Small-Big-Big-Big
+116. 76537551 -> Big-Big-Big-Small-Big-Big-Big-Small
+117. 65375519 -> Big-Big-Small-Big-Big-Big-Small-Big
+118. 53755199 -> Big-Small-Big-Big-Big-Small-Big-Big
+119. 37551990 -> Small-Big-Big-Big-Small-Big-Big-Small
+120. 75519901 -> Big-Big-Big-Small-Big-Big-Small-Small
+121. 15982384 -> Small-Big-Big-Big-Small-Small-Big-Small
+122. 82384897 -> Big-Small-Small-Big-Small-Big-Big-Big
+123. 23848979 -> Small-Small-Big-Small-Big-Big-Big-Big
+124. 38489796 -> Small-Big-Small-Big-Big-Big-Big-Big
+125. 84897967 -> Big-Small-Big-Big-Big-Big-Big-Big
+126. 02585784 -> Small-Small-Big-Big-Big-Big-Big-Small
+127. 25857845 -> Small-Big-Big-Big-Big-Big-Small-Big
+128. 58578459 -> Big-Big-Big-Big-Big-Small-Big-Big
+129. 85784593 -> Big-Big-Big-Big-Small-Big-Big-Small
+130. 84593190 -> Big-Small-Big-Big-Small-Small-Big-Small
+131. 45931909 -> Small-Big-Big-Small-Small-Big-Small-Big
+132. 69784216 -> Big-Big-Big-Big-Small-Small-Small-Big
+133. 97842164 -> Big-Big-Big-Small-Small-Small-Big-Small
+134. 78421640 -> Big-Big-Small-Small-Small-Big-Small-Small
+135. 84216408 -> Big-Small-Small-Small-Big-Small-Small-Big
+136. 42164087 -> Small-Small-Small-Big-Small-Small-Big-Big
+137. 21640870 -> Small-Small-Big-Small-Small-Big-Big-Small
+138. 16408702 -> Small-Big-Small-Small-Big-Big-Small-Small
+139. 40870271 -> Small-Small-Big-Big-Small-Small-Big-Small
+140. 87027190 -> Big-Big-Small-Small-Big-Small-Big-Small
+141. 70271904 -> Big-Small-Small-Big-Small-Big-Small-Small
+142. 02719042 -> Small-Small-Big-Small-Big-Small-Small-Small
+143. 27190425 -> Small-Big-Small-Big-Small-Small-Small-Big
+144. 71904259 -> Big-Small-Big-Small-Small-Small-Big-Big
+145. 19042598 -> Small-Big-Small-Small-Small-Big-Big-Big
+146. 90425986 -> Big-Small-Small-Small-Big-Big-Big-Big
+147. 25986624 -> Small-Big-Big-Big-Big-Big-Small-Small
+148. 26740474 -> Small-Big-Big-Small-Small-Small-Big-Small
+149. 40474074 -> Small-Small-Small-Big-Small-Small-Big-Small
+150. 04740743 -> Small-Small-Big-Small-Small-Big-Small-Small
+151. 47407434 -> Small-Big-Small-Small-Big-Small-Small-Small
+152. 74074344 -> Big-Small-Small-Big-Small-Small-Small-Small
+153. 40743448 -> Small-Small-Big-Small-Small-Small-Small-Big
+154. 07434487 -> Small-Big-Small-Small-Small-Small-Big-Big
+155. 43448783 -> Small-Small-Small-Small-Big-Big-Big-Small
+156. 83002277 -> Big-Small-Small-Small-Small-Small-Big-Big
+157. 28821833 -> Small-Big-Big-Small-Small-Big-Small-Small
+158. 33171845 -> Small-Small-Small-Big-Small-Big-Small-Big
+159. 31718459 -> Small-Small-Big-Small-Big-Small-Big-Big
+160. 17184599 -> Small-Big-Small-Big-Small-Big-Big-Big
+161. 71845992 -> Big-Small-Big-Small-Big-Big-Big-Small
+162. 18459922 -> Small-Big-Small-Big-Big-Big-Small-Small
+163. 84599221 -> Big-Small-Big-Big-Big-Small-Small-Small
+164. 45992215 -> Small-Big-Big-Big-Small-Small-Small-Big
+165. 99221545 -> Big-Big-Small-Small-Small-Big-Small-Big
+166. 15454252 -> Small-Big-Small-Big-Small-Small-Big-Small
+167. 37097105 -> Small-Big-Small-Big-Big-Small-Small-Big
+168. 59949527 -> Big-Big-Big-Small-Big-Big-Small-Big
+169. 94952757 -> Big-Small-Big-Big-Small-Big-Big-Big
+170. 49527570 -> Small-Big-Big-Small-Big-Big-Big-Small
+171. 95275700 -> Big-Big-Small-Big-Big-Big-Small-Small
+172. 52757005 -> Big-Small-Big-Big-Big-Small-Small-Big
+173. 43607915 -> Small-Small-Big-Small-Big-Big-Small-Big
+174. 36079156 -> Small-Big-Small-Big-Big-Small-Big-Big
+175. 07915659 -> Small-Big-Big-Small-Big-Big-Big-Big
+176. 79156596 -> Big-Big-Small-Big-Big-Big-Big-Big
+177. 91565961 -> Big-Small-Big-Big-Big-Big-Big-Small
+178. 74669544 -> Big-Small-Big-Big-Big-Big-Small-Small
+179. 54427185 -> Big-Small-Small-Small-Big-Small-Big-Big
+180. 44271856 -> Small-Small-Small-Big-Small-Big-Big-Big
+181. 27185662 -> Small-Big-Small-Big-Big-Big-Big-Small
+182. 56628047 -> Big-Big-Big-Small-Big-Small-Small-Big
+183. 04730434 -> Small-Small-Big-Small-Small-Small-Small-Small
+184. 47304346 -> Small-Big-Small-Small-Small-Small-Small-Big
+185. 00310607 -> Small-Small-Small-Small-Small-Big-Small-Big
+186. 03106073 -> Small-Small-Small-Small-Big-Small-Big-Small
+187. 10607382 -> Small-Small-Big-Small-Big-Small-Big-Small
+188. 06073827 -> Small-Big-Small-Big-Small-Big-Small-Big
+189. 60738273 -> Big-Small-Big-Small-Big-Small-Big-Small
+190. 07382732 -> Small-Big-Small-Big-Small-Big-Small-Small
+191. 73827325 -> Big-Small-Big-Small-Big-Small-Small-Big
+192. 69404094 -> Big-Big-Small-Small-Small-Small-Big-Small
+193. 94040948 -> Big-Small-Small-Small-Small-Big-Small-Big
+194. 32476648 -> Small-Small-Small-Big-Big-Big-Small-Big
+195. 05424623 -> Small-Big-Small-Small-Small-Big-Small-Small
+196. 54246234 -> Big-Small-Small-Small-Big-Small-Small-Small
+197. 42462342 -> Small-Small-Small-Big-Small-Small-Small-Small
+198. 59405819 -> Big-Big-Small-Small-Big-Big-Small-Big
+199. 94058197 -> Big-Small-Small-Big-Big-Small-Big-Big
+200. 40983038 -> Small-Small-Big-Big-Small-Small-Small-Big
+201. 88492088 -> Big-Big-Small-Big-Small-Small-Big-Big
+202. 84920883 -> Big-Small-Big-Small-Small-Big-Big-Small
+203. 49208835 -> Small-Big-Small-Small-Big-Big-Small-Big
+204. 88359110 -> Big-Big-Small-Big-Big-Small-Small-Small
+205. 20528650 -> Small-Small-Big-Small-Big-Big-Big-Small
+206. 05286506 -> Small-Big-Small-Big-Big-Big-Small-Big
+207. 74204823 -> Big-Small-Small-Small-Small-Big-Small-Small
+208. 84814615 -> Big-Small-Big-Small-Small-Big-Small-Big
+209. 48146159 -> Small-Big-Small-Small-Big-Small-Big-Big
+210. 44463571 -> Small-Small-Small-Big-Small-Big-Big-Small
+211. 38330464 -> Small-Big-Small-Small-Small-Small-Big-Small
+212. 33046439 -> Small-Small-Small-Small-Big-Small-Small-Big
+213. 64394372 -> Big-Small-Small-Big-Small-Small-Big-Small
+214. 92376170 -> Big-Small-Small-Big-Big-Small-Big-Small
+215. 78511069 -> Big-Big-Big-Small-Small-Small-Big-Big
+216. 85110693 -> Big-Big-Small-Small-Small-Big-Big-Small
+217. 51106932 -> Big-Small-Small-Small-Big-Big-Small-Small
+218. 79590529 -> Big-Big-Big-Big-Small-Big-Small-Big
+219. 95905299 -> Big-Big-Big-Small-Big-Small-Big-Big
+220. 59052998 -> Big-Big-Small-Big-Small-Big-Big-Big
+221. 90529988 -> Big-Small-Big-Small-Big-Big-Big-Big
+222. 35072660 -> Small-Big-Small-Big-Small-Big-Big-Small
+223. 50726608 -> Big-Small-Big-Small-Big-Big-Small-Big
+224. 55667735 -> Big-Big-Big-Big-Big-Big-Small-Big
+225. 71852232 -> Big-Small-Big-Big-Small-Small-Small-Small
+226. 23246498 -> Small-Small-Small-Small-Big-Small-Big-Big
+227. 46498392 -> Small-Big-Small-Big-Big-Small-Big-Small
+228. 64983923 -> Big-Small-Big-Big-Small-Big-Small-Small
+229. 22784666 -> Small-Small-Big-Big-Small-Big-Big-Big
+230. 22334482 -> Small-Small-Small-Small-Small-Small-Big-Small
+231. 64271737 -> Big-Small-Small-Big-Small-Big-Small-Big
+232. 89237249 -> Big-Big-Small-Small-Big-Small-Small-Big
+233. 23724936 -> Small-Small-Big-Small-Small-Big-Small-Big
+234. 37249364 -> Small-Big-Small-Small-Big-Small-Big-Small
+235. 43888364 -> Small-Small-Big-Big-Big-Small-Big-Small
+236. 38883644 -> Small-Big-Big-Big-Small-Big-Small-Small
+237. 88364418 -> Big-Big-Small-Big-Small-Small-Small-Big
+238. 18361442 -> Small-Big-Small-Big-Small-Small-Small-Small
+239. 83614428 -> Big-Small-Big-Small-Small-Small-Small-Big
+240. 62747332 -> Big-Small-Big-Small-Big-Small-Small-Small
+241. 93767491 -> Big-Small-Big-Big-Big-Small-Big-Small
+242. 37674917 -> Small-Big-Big-Big-Small-Big-Small-Big
+243. 76749173 -> Big-Big-Big-Small-Big-Small-Big-Small
+244. 67491738 -> Big-Big-Small-Big-Small-Big-Small-Big
+245. 74917389 -> Big-Small-Big-Small-Big-Small-Big-Big
+246. 86469181 -> Big-Big-Small-Big-Big-Small-Big-Small
+247. 64691818 -> Big-Small-Big-Big-Small-Big-Small-Big
+248. 46918184 -> Small-Big-Big-Small-Big-Small-Big-Small
+249. 81934471 -> Big-Small-Big-Small-Small-Small-Big-Small
+250. 74828812 -> Big-Small-Big-Small-Big-Big-Small-Small
+251. 14992739 -> Small-Small-Big-Big-Small-Big-Small-Big
+252. 49927397 -> Small-Big-Big-Small-Big-Small-Big-Big
+253. 28818414 -> Small-Big-Big-Small-Big-Small-Small-Small
+254. 67789381 -> Big-Big-Big-Big-Big-Small-Big-Small
+255. 96493764 -> Big-Big-Small-Big-Small-Big-Big-Small
+256. 67381811 -> Big-Big-Small-Big-Small-Big-Small-Small
+
+📊 Dominant Trends
+------------------
+257. 99556666 -> Big-Big-Big-Big-Big-Big-Big-Big
+
+📊 Emerging Trends
+------------------
+258. 50726608 -> Big-Small-Big-Small-Big-Big-Small-Big
+259. 46498392 -> Small-Big-Small-Big-Big-Small-Big-Small
+
+📊 False Trends
+---------------
+260. 05511403 -> Small-Big-Big-Small-Small-Small-Small-Small => ❌ Big
+261. 55114039 -> Big-Big-Small-Small-Small-Small-Small-Big => ❌ Small
+262. 14039404 -> Small-Small-Small-Small-Big-Small-Small-Small => ❌ Big
+263. 03940465 -> Small-Small-Big-Small-Small-Small-Big-Big => ❌ Small
+264. 39404654 -> Small-Big-Small-Small-Small-Big-Big-Small => ❌ Big
+265. 94046545 -> Big-Small-Small-Small-Big-Big-Small-Big => ❌ Small
+266. 04654504 -> Small-Small-Big-Big-Small-Big-Small-Small => ❌ Big
+267. 46545045 -> Small-Big-Big-Small-Big-Small-Small-Big => ❌ Small
+268. 54504524 -> Big-Small-Big-Small-Small-Big-Small-Small => ❌ Big
+269. 45246699 -> Small-Big-Small-Small-Big-Big-Big-Big => ❌ Small
+270. 66990000 -> Big-Big-Big-Big-Small-Small-Small-Small => ❌ Big
+271. 00008866 -> Small-Small-Small-Small-Big-Big-Big-Big => ❌ Small
+272. 00886633 -> Small-Small-Big-Big-Big-Big-Small-Small => ❌ Big
+273. 08866336 -> Small-Big-Big-Big-Big-Small-Small-Big => ❌ Small
+274. 88663362 -> Big-Big-Big-Big-Small-Small-Big-Small => ❌ Big
+275. 66336285 -> Big-Big-Small-Small-Big-Small-Big-Big => ❌ Small
+276. 36285144 -> Small-Big-Small-Big-Big-Small-Small-Small => ❌ Big
+277. 85144768 -> Big-Big-Small-Small-Small-Big-Big-Big => ❌ Small
+278. 47680220 -> Small-Big-Big-Big-Small-Small-Small-Small => ❌ Big
+279. 68022067 -> Big-Big-Small-Small-Small-Small-Big-Big => ❌ Small
+280. 80220674 -> Big-Small-Small-Small-Small-Big-Big-Small => ❌ Big
+281. 22067467 -> Small-Small-Small-Big-Big-Small-Big-Big => ❌ Small
+282. 20674670 -> Small-Small-Big-Big-Small-Big-Big-Small => ❌ Big
+283. 67467066 -> Big-Big-Small-Big-Big-Small-Big-Big => ❌ Small
+284. 46706611 -> Small-Big-Big-Small-Big-Big-Small-Small => ❌ Big
+285. 11668866 -> Small-Small-Big-Big-Big-Big-Big-Big => ❌ Small
+286. 66886600 -> Big-Big-Big-Big-Big-Big-Small-Small => ❌ Big
+287. 88660055 -> Big-Big-Big-Big-Small-Small-Big-Big => ❌ Small
+288. 53300333 -> Big-Small-Small-Small-Small-Small-Small-Small => ❌ Big
+289. 33399772 -> Small-Small-Small-Big-Big-Big-Big-Small => ❌ Big
+290. 33997729 -> Small-Small-Big-Big-Big-Big-Small-Big => ❌ Small
+291. 29220022 -> Small-Big-Small-Small-Small-Small-Small-Small => ❌ Big
+292. 22002255 -> Small-Small-Small-Small-Small-Small-Big-Big => ❌ Small
+293. 00225500 -> Small-Small-Small-Small-Big-Big-Small-Small => ❌ Big
+294. 88336699 -> Big-Big-Small-Small-Big-Big-Big-Big => ❌ Small
+295. 11444422 -> Small-Small-Small-Small-Small-Small-Small-Small => ❌ Big
+296. 99335500 -> Big-Big-Small-Small-Big-Big-Small-Small => ❌ Big
+297. 33550099 -> Small-Small-Big-Big-Small-Small-Big-Big => ❌ Small
+298. 00992211 -> Small-Small-Big-Big-Small-Small-Small-Small => ❌ Big
+299. 99556666 -> Big-Big-Big-Big-Big-Big-Big-Big => ❌ Small
+300. 88330022 -> Big-Big-Small-Small-Small-Small-Small-Small => ❌ Big
+301. 07733999 -> Small-Big-Big-Small-Small-Big-Big-Big => ❌ Small
+302. 73399900 -> Big-Small-Small-Big-Big-Big-Small-Small => ❌ Big
+303. 39990055 -> Small-Big-Big-Big-Small-Small-Big-Big => ❌ Small
+304. 79955137 -> Big-Big-Big-Big-Big-Small-Small-Big => ❌ Small
+305. 55137014 -> Big-Big-Small-Small-Big-Small-Small-Small => ❌ Big
+306. 51370145 -> Big-Small-Small-Big-Small-Small-Small-Big => ❌ Small
+307. 13701454 -> Small-Small-Big-Small-Small-Small-Big-Small => ❌ Big
+308. 37014548 -> Small-Big-Small-Small-Small-Big-Small-Big => ❌ Small
+309. 01454833 -> Small-Small-Small-Big-Small-Big-Small-Small => ❌ Big
+310. 54833999 -> Big-Small-Big-Small-Small-Big-Big-Big => ❌ Small
+311. 48339994 -> Small-Big-Small-Small-Big-Big-Big-Small => ❌ Big
+312. 99949765 -> Big-Big-Big-Small-Big-Big-Big-Big => ❌ Small
+313. 99497653 -> Big-Big-Small-Big-Big-Big-Big-Small => ❌ Big
+314. 97653755 -> Big-Big-Big-Big-Small-Big-Big-Big => ❌ Small
+315. 76537551 -> Big-Big-Big-Small-Big-Big-Big-Small => ❌ Big
+316. 53755199 -> Big-Small-Big-Big-Big-Small-Big-Big => ❌ Small
+317. 75519901 -> Big-Big-Big-Small-Big-Big-Small-Small => ❌ Big
+318. 01598238 -> Small-Small-Big-Big-Big-Small-Small-Big => ❌ Small
+319. 15982384 -> Small-Big-Big-Big-Small-Small-Big-Small => ❌ Big
+320. 48979677 -> Small-Big-Big-Big-Big-Big-Big-Big => ❌ Small
+321. 50258578 -> Big-Small-Small-Big-Big-Big-Big-Big => ❌ Small
+322. 02585784 -> Small-Small-Big-Big-Big-Big-Big-Small => ❌ Big
+323. 58578459 -> Big-Big-Big-Big-Big-Small-Big-Big => ❌ Small
+324. 78459319 -> Big-Big-Small-Big-Big-Small-Small-Big => ❌ Small
+325. 84593190 -> Big-Small-Big-Big-Small-Small-Big-Small => ❌ Big
+326. 66978421 -> Big-Big-Big-Big-Big-Small-Small-Small => ❌ Big
+327. 69784216 -> Big-Big-Big-Big-Small-Small-Small-Big => ❌ Small
+328. 78421640 -> Big-Big-Small-Small-Small-Big-Small-Small => ❌ Big
+329. 42164087 -> Small-Small-Small-Big-Small-Small-Big-Big => ❌ Small
+330. 16408702 -> Small-Big-Small-Small-Big-Big-Small-Small => ❌ Big
+331. 64087027 -> Big-Small-Small-Big-Big-Small-Small-Big => ❌ Small
+332. 40870271 -> Small-Small-Big-Big-Small-Small-Big-Small => ❌ Big
+333. 08702719 -> Small-Big-Big-Small-Small-Big-Small-Big => ❌ Small
+334. 02719042 -> Small-Small-Big-Small-Big-Small-Small-Small => ❌ Big
+335. 04259866 -> Small-Small-Small-Big-Big-Big-Big-Big => ❌ Small
+336. 25986624 -> Small-Big-Big-Big-Big-Big-Small-Small => ❌ Big
+337. 72674047 -> Big-Small-Big-Big-Small-Small-Small-Big => ❌ Small
+338. 74047407 -> Big-Small-Small-Small-Big-Small-Small-Big => ❌ Small
+339. 74074344 -> Big-Small-Small-Big-Small-Small-Small-Small => ❌ Big
+340. 74344878 -> Big-Small-Small-Small-Small-Big-Big-Big => ❌ Small
+341. 87830022 -> Big-Big-Big-Small-Small-Small-Small-Small => ❌ Big
+342. 83002277 -> Big-Small-Small-Small-Small-Small-Big-Big => ❌ Small
+343. 86644666 -> Big-Big-Big-Small-Small-Big-Big-Big => ❌ Small
+344. 00288218 -> Small-Small-Small-Big-Big-Small-Small-Big => ❌ Small
+345. 83317184 -> Big-Small-Small-Small-Big-Small-Big-Small => ❌ Big
+346. 17184599 -> Small-Big-Small-Big-Small-Big-Big-Big => ❌ Small
+347. 84599221 -> Big-Small-Big-Big-Big-Small-Small-Small => ❌ Big
+348. 45992215 -> Small-Big-Big-Big-Small-Small-Small-Big => ❌ Small
+349. 59922154 -> Big-Big-Big-Small-Small-Small-Big-Small => ❌ Big
+350. 99221545 -> Big-Big-Small-Small-Small-Big-Small-Big => ❌ Small
+351. 21545425 -> Small-Small-Big-Small-Big-Small-Small-Big => ❌ Small
+352. 25240395 -> Small-Big-Small-Small-Small-Small-Big-Big => ❌ Small
+353. 43709710 -> Small-Small-Big-Small-Big-Big-Small-Small => ❌ Big
+354. 97105994 -> Big-Big-Small-Small-Big-Big-Big-Small => ❌ Big
+355. 10599495 -> Small-Small-Big-Big-Big-Small-Big-Big => ❌ Small
+356. 05994952 -> Small-Big-Big-Big-Small-Big-Big-Small => ❌ Big
+357. 94952757 -> Big-Small-Big-Big-Small-Big-Big-Big => ❌ Small
+358. 95275700 -> Big-Big-Small-Big-Big-Big-Small-Small => ❌ Big
+359. 54360791 -> Big-Small-Small-Big-Small-Big-Big-Small => ❌ Big
+360. 79156596 -> Big-Big-Small-Big-Big-Big-Big-Big => ❌ Small
+361. 91565961 -> Big-Small-Big-Big-Big-Big-Big-Small => ❌ Big
+362. 65961574 -> Big-Big-Big-Big-Small-Big-Big-Small => ❌ Big
+363. 15746695 -> Small-Big-Big-Small-Big-Big-Big-Big => ❌ Small
+364. 46695442 -> Small-Big-Big-Big-Big-Small-Small-Small => ❌ Big
+365. 42718566 -> Small-Small-Big-Small-Big-Big-Big-Big => ❌ Small
+366. 27185662 -> Small-Big-Small-Big-Big-Big-Big-Small => ❌ Big
+367. 71856628 -> Big-Small-Big-Big-Big-Big-Small-Big => ❌ Small
+368. 85662804 -> Big-Big-Big-Big-Small-Big-Small-Small => ❌ Big
+369. 56628047 -> Big-Big-Big-Small-Big-Small-Small-Big => ❌ Small
+370. 04730434 -> Small-Small-Big-Small-Small-Small-Small-Small => ❌ Big
+371. 54886249 -> Big-Small-Big-Big-Big-Small-Small-Big => ❌ Small
+372. 49167977 -> Small-Big-Small-Big-Big-Big-Big-Big => ❌ Small
+373. 70031060 -> Big-Small-Small-Small-Small-Small-Big-Small => ❌ Big
+374. 00310607 -> Small-Small-Small-Small-Small-Big-Small-Big => ❌ Small
+375. 03106073 -> Small-Small-Small-Small-Big-Small-Big-Small => ❌ Big
+376. 31060738 -> Small-Small-Small-Big-Small-Big-Small-Big => ❌ Small
+377. 10607382 -> Small-Small-Big-Small-Big-Small-Big-Small => ❌ Big
+378. 06073827 -> Small-Big-Small-Big-Small-Big-Small-Big => ❌ Small
+379. 07382732 -> Small-Big-Small-Big-Small-Big-Small-Small => ❌ Big
+380. 86940409 -> Big-Big-Big-Small-Small-Small-Small-Big => ❌ Small
+381. 69404094 -> Big-Big-Small-Small-Small-Small-Big-Small => ❌ Big
+382. 94040948 -> Big-Small-Small-Small-Small-Big-Small-Big => ❌ Small
+383. 48324766 -> Small-Big-Small-Small-Small-Big-Big-Big => ❌ Small
+384. 83247664 -> Big-Small-Small-Small-Big-Big-Big-Small => ❌ Big
+385. 47664857 -> Small-Big-Big-Big-Small-Big-Big-Big => ❌ Small
+386. 46234226 -> Small-Big-Small-Small-Small-Small-Small-Big => ❌ Small
+387. 42260222 -> Small-Small-Small-Big-Small-Small-Small-Small => ❌ Big
+388. 26676359 -> Small-Big-Big-Big-Big-Small-Big-Big => ❌ Small
+389. 63594058 -> Big-Small-Big-Big-Small-Small-Big-Big => ❌ Small
+390. 35940581 -> Small-Big-Big-Small-Small-Big-Big-Small => ❌ Big
+391. 94058197 -> Big-Small-Small-Big-Big-Small-Big-Big => ❌ Small
+392. 74098303 -> Big-Small-Small-Big-Big-Small-Small-Small => ❌ Big
+393. 83038788 -> Big-Small-Small-Small-Big-Big-Big-Big => ❌ Small
+394. 88492088 -> Big-Big-Small-Big-Small-Small-Big-Big => ❌ Small
+395. 84920883 -> Big-Small-Big-Small-Small-Big-Big-Small => ❌ Big
+396. 88359110 -> Big-Big-Small-Big-Big-Small-Small-Small => ❌ Big
+397. 33961205 -> Small-Small-Big-Big-Small-Small-Small-Big => ❌ Small
+398. 39612052 -> Small-Big-Big-Small-Small-Small-Big-Small => ❌ Big
+399. 12052865 -> Small-Small-Small-Big-Small-Big-Big-Big => ❌ Small
+400. 20528650 -> Small-Small-Big-Small-Big-Big-Big-Small => ❌ Big
+401. 74778900 -> Big-Small-Big-Big-Big-Big-Small-Small => ❌ Big
+402. 12220984 -> Small-Small-Small-Small-Small-Big-Big-Small => ❌ Big
+403. 22209848 -> Small-Small-Small-Small-Big-Big-Small-Big => ❌ Small
+404. 98481461 -> Big-Big-Small-Big-Small-Small-Big-Small => ❌ Big
+405. 48146159 -> Small-Big-Small-Small-Big-Small-Big-Big => ❌ Small
+406. 40568444 -> Small-Small-Big-Big-Big-Small-Small-Small => ❌ Big
+407. 84446357 -> Big-Small-Small-Small-Big-Small-Big-Big => ❌ Small
+408. 44463571 -> Small-Small-Small-Big-Small-Big-Big-Small => ❌ Big
+409. 46357186 -> Small-Big-Small-Big-Big-Small-Big-Big => ❌ Small
+410. 03833046 -> Small-Small-Big-Small-Small-Small-Small-Big => ❌ Small
+411. 83304643 -> Big-Small-Small-Small-Small-Big-Small-Small => ❌ Big
+412. 33046439 -> Small-Small-Small-Small-Big-Small-Small-Big => ❌ Small
+413. 04643943 -> Small-Small-Big-Small-Small-Big-Small-Small => ❌ Big
+414. 46439437 -> Small-Big-Small-Small-Big-Small-Small-Big => ❌ Small
+415. 56923761 -> Big-Big-Big-Small-Small-Big-Big-Small => ❌ Big
+416. 69237617 -> Big-Big-Small-Small-Big-Big-Small-Big => ❌ Small
+417. 78511069 -> Big-Big-Big-Small-Small-Small-Big-Big => ❌ Small
+418. 51106932 -> Big-Small-Small-Small-Big-Big-Small-Small => ❌ Big
+419. 51179590 -> Big-Small-Small-Big-Big-Big-Big-Small => ❌ Big
+420. 17959052 -> Small-Big-Big-Big-Big-Small-Big-Small => ❌ Big
+421. 03507266 -> Small-Small-Big-Small-Big-Small-Big-Big => ❌ Small
+422. 35072660 -> Small-Big-Small-Big-Small-Big-Big-Small => ❌ Big
+423. 35566773 -> Small-Big-Big-Big-Big-Big-Big-Small => ❌ Big
+424. 73555577 -> Big-Small-Big-Big-Big-Big-Big-Big => ❌ Small
+425. 23246498 -> Small-Small-Small-Small-Big-Small-Big-Big => ❌ Small
+426. 24649839 -> Small-Small-Big-Small-Big-Big-Small-Big => ❌ Small
+427. 64983923 -> Big-Small-Big-Big-Small-Big-Small-Small => ❌ Big
+428. 49342081 -> Small-Big-Small-Small-Small-Small-Big-Small => ❌ Big
+429. 67422784 -> Big-Big-Small-Small-Small-Big-Big-Small => ❌ Big
+430. 61661144 -> Big-Small-Big-Big-Small-Small-Small-Small => ❌ Big
+431. 72233448 -> Big-Small-Small-Small-Small-Small-Small-Big => ❌ Small
+432. 23344823 -> Small-Small-Small-Small-Small-Big-Small-Small => ❌ Big
+433. 44823666 -> Small-Small-Big-Small-Small-Big-Big-Big => ❌ Small
+434. 86427173 -> Big-Big-Small-Small-Big-Small-Big-Small => ❌ Big
+435. 71737889 -> Big-Small-Big-Small-Big-Big-Big-Big => ❌ Small
+436. 88923724 -> Big-Big-Big-Small-Small-Big-Small-Small => ❌ Big
+437. 89237249 -> Big-Big-Small-Small-Big-Small-Small-Big => ❌ Small
+438. 92372493 -> Big-Small-Small-Big-Small-Small-Big-Small => ❌ Big
+439. 23724936 -> Small-Small-Big-Small-Small-Big-Small-Big => ❌ Small
+440. 37249364 -> Small-Big-Small-Small-Big-Small-Big-Small => ❌ Big
+441. 33438883 -> Small-Small-Small-Small-Big-Big-Big-Small => ❌ Big
+442. 34388836 -> Small-Small-Small-Big-Big-Big-Small-Big => ❌ Small
+443. 88836441 -> Big-Big-Big-Small-Big-Small-Small-Small => ❌ Big
+444. 18361442 -> Small-Big-Small-Big-Small-Small-Small-Small => ❌ Big
+445. 83614428 -> Big-Small-Big-Small-Small-Small-Small-Big => ❌ Small
+446. 22133262 -> Small-Small-Small-Small-Small-Small-Big-Small => ❌ Big
+447. 62747332 -> Big-Small-Big-Small-Big-Small-Small-Small => ❌ Big
+448. 74733266 -> Big-Small-Big-Small-Small-Small-Big-Big => ❌ Small
+449. 31681786 -> Small-Small-Big-Big-Small-Big-Big-Big => ❌ Small
+450. 47937674 -> Small-Big-Big-Small-Big-Big-Big-Small => ❌ Big
+451. 79376749 -> Big-Big-Small-Big-Big-Big-Small-Big => ❌ Small
+452. 93767491 -> Big-Small-Big-Big-Big-Small-Big-Small => ❌ Big
+453. 37674917 -> Small-Big-Big-Big-Small-Big-Small-Big => ❌ Small
+454. 76749173 -> Big-Big-Big-Small-Big-Small-Big-Small => ❌ Big
+455. 98646918 -> Big-Big-Big-Small-Big-Big-Small-Big => ❌ Small
+456. 86469181 -> Big-Big-Small-Big-Big-Small-Big-Small => ❌ Big
+457. 64691818 -> Big-Small-Big-Big-Small-Big-Small-Big => ❌ Small
+458. 46918184 -> Small-Big-Big-Small-Big-Small-Big-Small => ❌ Big
+459. 69181848 -> Big-Big-Small-Big-Small-Big-Small-Big => ❌ Small
+460. 91818484 -> Big-Small-Big-Small-Big-Small-Big-Small => ❌ Big
+461. 48491168 -> Small-Big-Small-Big-Small-Small-Big-Big => ❌ Small
+462. 81392788 -> Big-Small-Small-Big-Small-Big-Big-Big => ❌ Small
+463. 62184842 -> Big-Small-Small-Big-Small-Big-Small-Small => ❌ Big
+464. 46621744 -> Small-Big-Big-Small-Small-Big-Small-Small => ❌ Big
+465. 24231347 -> Small-Small-Small-Small-Small-Small-Small-Big => ❌ Small
+466. 28193447 -> Small-Big-Small-Big-Small-Small-Small-Big => ❌ Small
+467. 19344712 -> Small-Big-Small-Small-Small-Big-Small-Small => ❌ Big
+468. 34471262 -> Small-Small-Small-Big-Small-Small-Big-Small => ❌ Big
+469. 63748288 -> Big-Small-Big-Small-Big-Small-Big-Big => ❌ Small
+470. 41499273 -> Small-Small-Small-Big-Big-Small-Big-Small => ❌ Big
+471. 99273976 -> Big-Big-Small-Big-Small-Big-Big-Big => ❌ Small
+472. 27397642 -> Small-Big-Small-Big-Big-Big-Small-Small => ❌ Big
+473. 26934419 -> Small-Big-Big-Small-Small-Small-Small-Big => ❌ Small
+474. 33113778 -> Small-Small-Small-Small-Small-Big-Big-Big => ❌ Small
+475. 96183333 -> Big-Big-Small-Big-Small-Small-Small-Small => ❌ Big
+476. 94339343 -> Big-Small-Small-Small-Big-Small-Small-Small => ❌ Big
+477. 14392416 -> Small-Small-Small-Big-Small-Small-Small-Big => ❌ Small
+478. 38266618 -> Small-Big-Small-Big-Big-Big-Small-Big => ❌ Small
+479. 39864841 -> Small-Big-Big-Big-Small-Big-Small-Small => ❌ Big
+480. 89942919 -> Big-Big-Big-Small-Small-Big-Small-Big => ❌ Small
+481. 19128818 -> Small-Big-Small-Small-Big-Big-Small-Big => ❌ Small
+482. 28818414 -> Small-Big-Big-Small-Big-Small-Small-Small => ❌ Big
+483. 41488914 -> Small-Small-Small-Big-Big-Big-Small-Small => ❌ Big
+484. 23397314 -> Small-Small-Small-Big-Big-Small-Small-Small => ❌ Big
+485. 71294629 -> Big-Small-Small-Big-Small-Big-Small-Big => ❌ Small
+486. 92782981 -> Big-Small-Big-Big-Small-Big-Big-Small => ❌ Big
+487. 46778938 -> Small-Big-Big-Big-Big-Big-Small-Big => ❌ Small
+488. 93813619 -> Big-Small-Big-Small-Small-Big-Small-Big => ❌ Small
+489. 71748674 -> Big-Small-Big-Small-Big-Big-Big-Small => ❌ Big
+490. 29719919 -> Small-Big-Big-Small-Big-Big-Small-Big => ❌ Small
+491. 76987792 -> Big-Big-Big-Big-Big-Big-Big-Small => ❌ Big
+492. 69877927 -> Big-Big-Big-Big-Big-Big-Small-Big => ❌ Small
+493. 98779274 -> Big-Big-Big-Big-Big-Small-Big-Small => ❌ Big
+494. 87792746 -> Big-Big-Big-Big-Small-Big-Small-Big => ❌ Small
+495. 63949932 -> Big-Small-Big-Small-Big-Big-Small-Small => ❌ Big
+496. 27329412 -> Small-Big-Small-Small-Big-Small-Small-Small => ❌ Big
+497. 16486373 -> Small-Big-Small-Big-Big-Small-Big-Small => ❌ Big
+498. 74496493 -> Big-Small-Small-Big-Big-Small-Big-Small => ❌ Big
+499. 49649376 -> Small-Big-Big-Small-Big-Small-Big-Big => ❌ Small
+500. 23722681 -> Small-Small-Big-Small-Small-Big-Big-Small => ❌ Big
+501. 82294268 -> Big-Small-Small-Big-Small-Small-Big-Big => ❌ Small
+502. 62923224 -> Big-Small-Big-Small-Small-Small-Small-Small => ❌ Big
+503. 28178239 -> Small-Big-Small-Big-Big-Small-Small-Big => ❌ Small
+504. 67381811 -> Big-Big-Small-Big-Small-Big-Small-Small => ❌ Big
+505. 73818118 -> Big-Small-Big-Small-Big-Small-Small-Big => ❌ Small
+506. 38181182 -> Small-Big-Small-Big-Small-Small-Big-Small => ❌ Big
+507. 82944191 -> Big-Small-Big-Small-Small-Small-Big-Small => ❌ Big
+508. 92197827 -> Big-Small-Small-Big-Big-Big-Small-Big => ❌ Small
+509. 17732387 -> Small-Big-Big-Small-Small-Small-Big-Big => ❌ Small
+510. 61928648 -> Big-Small-Big-Small-Big-Big-Small-Big => ❌ Small
+511. 12668164 -> Small-Small-Big-Big-Big-Small-Big-Small => ❌ Big
+512. 96739198 -> Big-Big-Big-Small-Big-Small-Big-Big => ❌ Small
+513. 78183663 -> Big-Big-Small-Big-Small-Big-Big-Small => ❌ Big
+514. 31773837 -> Small-Small-Big-Big-Small-Big-Small-Big => ❌ Small
+515. 87483239 -> Big-Big-Small-Big-Small-Small-Small-Big => ❌ Small
+
+📊 Reverse Trends
+-----------------
+516. 10551140 -> Small-Small-Big-Big-Small-Small-Small-Small ↔ Big-Big-Small-Small-Big-Big-Big-Big
+517. 05511403 -> Small-Big-Big-Small-Small-Small-Small-Small ↔ Big-Small-Small-Big-Big-Big-Big-Big
+518. 55114039 -> Big-Big-Small-Small-Small-Small-Small-Big ↔ Small-Small-Big-Big-Big-Big-Big-Small
+519. 51140394 -> Big-Small-Small-Small-Small-Small-Big-Small ↔ Small-Big-Big-Big-Big-Big-Small-Big
+520. 11403940 -> Small-Small-Small-Small-Small-Big-Small-Small ↔ Big-Big-Big-Big-Big-Small-Big-Big
+521. 14039404 -> Small-Small-Small-Small-Big-Small-Small-Small ↔ Big-Big-Big-Big-Small-Big-Big-Big
+522. 40394046 -> Small-Small-Small-Big-Small-Small-Small-Big ↔ Big-Big-Big-Small-Big-Big-Big-Small
+523. 03940465 -> Small-Small-Big-Small-Small-Small-Big-Big ↔ Big-Big-Small-Big-Big-Big-Small-Small
+524. 39404654 -> Small-Big-Small-Small-Small-Big-Big-Small ↔ Big-Small-Big-Big-Big-Small-Small-Big
+525. 94046545 -> Big-Small-Small-Small-Big-Big-Small-Big ↔ Small-Big-Big-Big-Small-Small-Big-Small
+526. 40465450 -> Small-Small-Small-Big-Big-Small-Big-Small ↔ Big-Big-Big-Small-Small-Big-Small-Big
+527. 04654504 -> Small-Small-Big-Big-Small-Big-Small-Small ↔ Big-Big-Small-Small-Big-Small-Big-Big
+528. 46545045 -> Small-Big-Big-Small-Big-Small-Small-Big ↔ Big-Small-Small-Big-Small-Big-Big-Small
+529. 65450452 -> Big-Big-Small-Big-Small-Small-Big-Small ↔ Small-Small-Big-Small-Big-Big-Small-Big
+530. 54504524 -> Big-Small-Big-Small-Small-Big-Small-Small ↔ Small-Big-Small-Big-Big-Small-Big-Big
+531. 45045246 -> Small-Big-Small-Small-Big-Small-Small-Big ↔ Big-Small-Big-Big-Small-Big-Big-Small
+532. 50452466 -> Big-Small-Small-Big-Small-Small-Big-Big ↔ Small-Big-Big-Small-Big-Big-Small-Small
+533. 04524669 -> Small-Small-Big-Small-Small-Big-Big-Big ↔ Big-Big-Small-Big-Big-Small-Small-Small
+534. 45246699 -> Small-Big-Small-Small-Big-Big-Big-Big ↔ Big-Small-Big-Big-Small-Small-Small-Small
+535. 52466990 -> Big-Small-Small-Big-Big-Big-Big-Small ↔ Small-Big-Big-Small-Small-Small-Small-Big
+536. 24669900 -> Small-Small-Big-Big-Big-Big-Small-Small ↔ Big-Big-Small-Small-Small-Small-Big-Big
+537. 46699000 -> Small-Big-Big-Big-Big-Small-Small-Small ↔ Big-Small-Small-Small-Small-Big-Big-Big
+538. 66990000 -> Big-Big-Big-Big-Small-Small-Small-Small ↔ Small-Small-Small-Small-Big-Big-Big-Big
+539. 69900008 -> Big-Big-Big-Small-Small-Small-Small-Big ↔ Small-Small-Small-Big-Big-Big-Big-Small
+540. 99000088 -> Big-Big-Small-Small-Small-Small-Big-Big ↔ Small-Small-Big-Big-Big-Big-Small-Small
+541. 90000886 -> Big-Small-Small-Small-Small-Big-Big-Big ↔ Small-Big-Big-Big-Big-Small-Small-Small
+542. 00008866 -> Small-Small-Small-Small-Big-Big-Big-Big ↔ Big-Big-Big-Big-Small-Small-Small-Small
+543. 00088663 -> Small-Small-Small-Big-Big-Big-Big-Small ↔ Big-Big-Big-Small-Small-Small-Small-Big
+544. 08866336 -> Small-Big-Big-Big-Big-Small-Small-Big ↔ Big-Small-Small-Small-Small-Big-Big-Small
+545. 88663362 -> Big-Big-Big-Big-Small-Small-Big-Small ↔ Small-Small-Small-Small-Big-Big-Small-Big
+546. 86633628 -> Big-Big-Big-Small-Small-Big-Small-Big ↔ Small-Small-Small-Big-Big-Small-Big-Small
+547. 66336285 -> Big-Big-Small-Small-Big-Small-Big-Big ↔ Small-Small-Big-Big-Small-Big-Small-Small
+548. 63362851 -> Big-Small-Small-Big-Small-Big-Big-Small ↔ Small-Big-Big-Small-Big-Small-Small-Big
+549. 33628514 -> Small-Small-Big-Small-Big-Big-Small-Small ↔ Big-Big-Small-Big-Small-Small-Big-Big
+550. 36285144 -> Small-Big-Small-Big-Big-Small-Small-Small ↔ Big-Small-Big-Small-Small-Big-Big-Big
+551. 62851447 -> Big-Small-Big-Big-Small-Small-Small-Big ↔ Small-Big-Small-Small-Big-Big-Big-Small
+552. 28514476 -> Small-Big-Big-Small-Small-Small-Big-Big ↔ Big-Small-Small-Big-Big-Big-Small-Small
+553. 85144768 -> Big-Big-Small-Small-Small-Big-Big-Big ↔ Small-Small-Big-Big-Big-Small-Small-Small
+554. 51447680 -> Big-Small-Small-Small-Big-Big-Big-Small ↔ Small-Big-Big-Big-Small-Small-Small-Big
+555. 14476802 -> Small-Small-Small-Big-Big-Big-Small-Small ↔ Big-Big-Big-Small-Small-Small-Big-Big
+556. 44768022 -> Small-Small-Big-Big-Big-Small-Small-Small ↔ Big-Big-Small-Small-Small-Big-Big-Big
+557. 47680220 -> Small-Big-Big-Big-Small-Small-Small-Small ↔ Big-Small-Small-Small-Big-Big-Big-Big
+558. 80220674 -> Big-Small-Small-Small-Small-Big-Big-Small ↔ Small-Big-Big-Big-Big-Small-Small-Big
+559. 02206746 -> Small-Small-Small-Small-Big-Big-Small-Big ↔ Big-Big-Big-Big-Small-Small-Big-Small
+560. 22067467 -> Small-Small-Small-Big-Big-Small-Big-Big ↔ Big-Big-Big-Small-Small-Big-Small-Small
+561. 20674670 -> Small-Small-Big-Big-Small-Big-Big-Small ↔ Big-Big-Small-Small-Big-Small-Small-Big
+562. 06746706 -> Small-Big-Big-Small-Big-Big-Small-Big ↔ Big-Small-Small-Big-Small-Small-Big-Small
+563. 67467066 -> Big-Big-Small-Big-Big-Small-Big-Big ↔ Small-Small-Big-Small-Small-Big-Small-Small
+564. 74670661 -> Big-Small-Big-Big-Small-Big-Big-Small ↔ Small-Big-Small-Small-Big-Small-Small-Big
+565. 46706611 -> Small-Big-Big-Small-Big-Big-Small-Small ↔ Big-Small-Small-Big-Small-Small-Big-Big
+566. 67066116 -> Big-Big-Small-Big-Big-Small-Small-Big ↔ Small-Small-Big-Small-Small-Big-Big-Small
+567. 70661166 -> Big-Small-Big-Big-Small-Small-Big-Big ↔ Small-Big-Small-Small-Big-Big-Small-Small
+568. 06611668 -> Small-Big-Big-Small-Small-Big-Big-Big ↔ Big-Small-Small-Big-Big-Small-Small-Small
+569. 66116688 -> Big-Big-Small-Small-Big-Big-Big-Big ↔ Small-Small-Big-Big-Small-Small-Small-Small
+570. 61166886 -> Big-Small-Small-Big-Big-Big-Big-Big ↔ Small-Big-Big-Small-Small-Small-Small-Small
+571. 11668866 -> Small-Small-Big-Big-Big-Big-Big-Big ↔ Big-Big-Small-Small-Small-Small-Small-Small
+572. 16688660 -> Small-Big-Big-Big-Big-Big-Big-Small ↔ Big-Small-Small-Small-Small-Small-Small-Big
+573. 66886600 -> Big-Big-Big-Big-Big-Big-Small-Small ↔ Small-Small-Small-Small-Small-Small-Big-Big
+574. 68866005 -> Big-Big-Big-Big-Big-Small-Small-Big ↔ Small-Small-Small-Small-Small-Big-Big-Small
+575. 88660055 -> Big-Big-Big-Big-Small-Small-Big-Big ↔ Small-Small-Small-Small-Big-Big-Small-Small
+576. 86600553 -> Big-Big-Big-Small-Small-Big-Big-Small ↔ Small-Small-Small-Big-Big-Small-Small-Big
+577. 66005533 -> Big-Big-Small-Small-Big-Big-Small-Small ↔ Small-Small-Big-Big-Small-Small-Big-Big
+578. 60055330 -> Big-Small-Small-Big-Big-Small-Small-Small ↔ Small-Big-Big-Small-Small-Big-Big-Big
+579. 55330033 -> Big-Big-Small-Small-Small-Small-Small-Small ↔ Small-Small-Big-Big-Big-Big-Big-Big
+580. 53300333 -> Big-Small-Small-Small-Small-Small-Small-Small ↔ Small-Big-Big-Big-Big-Big-Big-Big
+581. 33003339 -> Small-Small-Small-Small-Small-Small-Small-Big ↔ Big-Big-Big-Big-Big-Big-Big-Small
+582. 30033399 -> Small-Small-Small-Small-Small-Small-Big-Big ↔ Big-Big-Big-Big-Big-Big-Small-Small
+583. 00333997 -> Small-Small-Small-Small-Small-Big-Big-Big ↔ Big-Big-Big-Big-Big-Small-Small-Small
+584. 33997729 -> Small-Small-Big-Big-Big-Big-Small-Big ↔ Big-Big-Small-Small-Small-Small-Big-Small
+585. 39977292 -> Small-Big-Big-Big-Big-Small-Big-Small ↔ Big-Small-Small-Small-Small-Big-Small-Big
+586. 99772922 -> Big-Big-Big-Big-Small-Big-Small-Small ↔ Small-Small-Small-Small-Big-Small-Big-Big
+587. 97729220 -> Big-Big-Big-Small-Big-Small-Small-Small ↔ Small-Small-Small-Big-Small-Big-Big-Big
+588. 77292200 -> Big-Big-Small-Big-Small-Small-Small-Small ↔ Small-Small-Big-Small-Big-Big-Big-Big
+589. 72922002 -> Big-Small-Big-Small-Small-Small-Small-Small ↔ Small-Big-Small-Big-Big-Big-Big-Big
+590. 29220022 -> Small-Big-Small-Small-Small-Small-Small-Small ↔ Big-Small-Big-Big-Big-Big-Big-Big
+591. 92200225 -> Big-Small-Small-Small-Small-Small-Small-Big ↔ Small-Big-Big-Big-Big-Big-Big-Small
+592. 20022550 -> Small-Small-Small-Small-Small-Big-Big-Small ↔ Big-Big-Big-Big-Big-Small-Small-Big
+593. 00225500 -> Small-Small-Small-Small-Big-Big-Small-Small ↔ Big-Big-Big-Big-Small-Small-Big-Big
+594. 02255007 -> Small-Small-Small-Big-Big-Small-Small-Big ↔ Big-Big-Big-Small-Small-Big-Big-Small
+595. 22550077 -> Small-Small-Big-Big-Small-Small-Big-Big ↔ Big-Big-Small-Small-Big-Big-Small-Small
+596. 79933667 -> Big-Big-Big-Small-Small-Big-Big-Big ↔ Small-Small-Small-Big-Big-Small-Small-Small
+597. 68811444 -> Big-Big-Big-Small-Small-Small-Small-Small ↔ Small-Small-Small-Big-Big-Big-Big-Big
+598. 11444422 -> Small-Small-Small-Small-Small-Small-Small-Small ↔ Big-Big-Big-Big-Big-Big-Big-Big
+599. 32266112 -> Small-Small-Small-Big-Big-Small-Small-Small ↔ Big-Big-Big-Small-Small-Big-Big-Big
+600. 11188999 -> Small-Small-Small-Big-Big-Big-Big-Big ↔ Big-Big-Big-Small-Small-Small-Small-Small
+601. 93355009 -> Big-Small-Small-Big-Big-Small-Small-Big ↔ Small-Big-Big-Small-Small-Big-Big-Small
+602. 35500992 -> Small-Big-Big-Small-Small-Big-Big-Small ↔ Big-Small-Small-Big-Big-Small-Small-Big
+603. 09922117 -> Small-Big-Big-Small-Small-Small-Small-Big ↔ Big-Small-Small-Big-Big-Big-Big-Small
+604. 49955666 -> Small-Big-Big-Big-Big-Big-Big-Big ↔ Big-Small-Small-Small-Small-Small-Small-Small
+605. 99556666 -> Big-Big-Big-Big-Big-Big-Big-Big ↔ Small-Small-Small-Small-Small-Small-Small-Small
+606. 95566664 -> Big-Big-Big-Big-Big-Big-Big-Small ↔ Small-Small-Small-Small-Small-Small-Small-Big
+607. 69988330 -> Big-Big-Big-Big-Big-Small-Small-Small ↔ Small-Small-Small-Small-Small-Big-Big-Big
+608. 77339990 -> Big-Big-Small-Small-Big-Big-Big-Small ↔ Small-Small-Big-Big-Small-Small-Small-Big
+609. 73399900 -> Big-Small-Small-Big-Big-Big-Small-Small ↔ Small-Big-Big-Small-Small-Small-Big-Big
+610. 33999005 -> Small-Small-Big-Big-Big-Small-Small-Big ↔ Big-Big-Small-Small-Small-Big-Big-Small
+611. 39990055 -> Small-Big-Big-Big-Small-Small-Big-Big ↔ Big-Small-Small-Small-Big-Big-Small-Small
+612. 95513701 -> Big-Big-Big-Small-Small-Big-Small-Small ↔ Small-Small-Small-Big-Big-Small-Big-Big
+613. 55137014 -> Big-Big-Small-Small-Big-Small-Small-Small ↔ Small-Small-Big-Big-Small-Big-Big-Big
+614. 51370145 -> Big-Small-Small-Big-Small-Small-Small-Big ↔ Small-Big-Big-Small-Big-Big-Big-Small
+615. 13701454 -> Small-Small-Big-Small-Small-Small-Big-Small ↔ Big-Big-Small-Big-Big-Big-Small-Big
+616. 37014548 -> Small-Big-Small-Small-Small-Big-Small-Big ↔ Big-Small-Big-Big-Big-Small-Big-Small
+617. 70145483 -> Big-Small-Small-Small-Big-Small-Big-Small ↔ Small-Big-Big-Big-Small-Big-Small-Big
+618. 01454833 -> Small-Small-Small-Big-Small-Big-Small-Small ↔ Big-Big-Big-Small-Big-Small-Big-Big
+619. 14548339 -> Small-Small-Big-Small-Big-Small-Small-Big ↔ Big-Big-Small-Big-Small-Big-Big-Small
+620. 45483399 -> Small-Big-Small-Big-Small-Small-Big-Big ↔ Big-Small-Big-Small-Big-Big-Small-Small
+621. 54833999 -> Big-Small-Big-Small-Small-Big-Big-Big ↔ Small-Big-Small-Big-Big-Small-Small-Small
+622. 48339994 -> Small-Big-Small-Small-Big-Big-Big-Small ↔ Big-Small-Big-Big-Small-Small-Small-Big
+623. 83399949 -> Big-Small-Small-Big-Big-Big-Small-Big ↔ Small-Big-Big-Small-Small-Small-Big-Small
+624. 33999497 -> Small-Small-Big-Big-Big-Small-Big-Big ↔ Big-Big-Small-Small-Small-Big-Small-Small
+625. 39994976 -> Small-Big-Big-Big-Small-Big-Big-Big ↔ Big-Small-Small-Small-Big-Small-Small-Small
+626. 99949765 -> Big-Big-Big-Small-Big-Big-Big-Big ↔ Small-Small-Small-Big-Small-Small-Small-Small
+627. 99497653 -> Big-Big-Small-Big-Big-Big-Big-Small ↔ Small-Small-Big-Small-Small-Small-Small-Big
+628. 94976537 -> Big-Small-Big-Big-Big-Big-Small-Big ↔ Small-Big-Small-Small-Small-Small-Big-Small
+629. 49765375 -> Small-Big-Big-Big-Big-Small-Big-Big ↔ Big-Small-Small-Small-Small-Big-Small-Small
+630. 97653755 -> Big-Big-Big-Big-Small-Big-Big-Big ↔ Small-Small-Small-Small-Big-Small-Small-Small
+631. 76537551 -> Big-Big-Big-Small-Big-Big-Big-Small ↔ Small-Small-Small-Big-Small-Small-Small-Big
+632. 65375519 -> Big-Big-Small-Big-Big-Big-Small-Big ↔ Small-Small-Big-Small-Small-Small-Big-Small
+633. 53755199 -> Big-Small-Big-Big-Big-Small-Big-Big ↔ Small-Big-Small-Small-Small-Big-Small-Small
+634. 37551990 -> Small-Big-Big-Big-Small-Big-Big-Small ↔ Big-Small-Small-Small-Big-Small-Small-Big
+635. 75519901 -> Big-Big-Big-Small-Big-Big-Small-Small ↔ Small-Small-Small-Big-Small-Small-Big-Big
+636. 15982384 -> Small-Big-Big-Big-Small-Small-Big-Small ↔ Big-Small-Small-Small-Big-Big-Small-Big
+637. 82384897 -> Big-Small-Small-Big-Small-Big-Big-Big ↔ Small-Big-Big-Small-Big-Small-Small-Small
+638. 23848979 -> Small-Small-Big-Small-Big-Big-Big-Big ↔ Big-Big-Small-Big-Small-Small-Small-Small
+639. 38489796 -> Small-Big-Small-Big-Big-Big-Big-Big ↔ Big-Small-Big-Small-Small-Small-Small-Small
+640. 84897967 -> Big-Small-Big-Big-Big-Big-Big-Big ↔ Small-Big-Small-Small-Small-Small-Small-Small
+641. 02585784 -> Small-Small-Big-Big-Big-Big-Big-Small ↔ Big-Big-Small-Small-Small-Small-Small-Big
+642. 25857845 -> Small-Big-Big-Big-Big-Big-Small-Big ↔ Big-Small-Small-Small-Small-Small-Big-Small
+643. 58578459 -> Big-Big-Big-Big-Big-Small-Big-Big ↔ Small-Small-Small-Small-Small-Big-Small-Small
+644. 85784593 -> Big-Big-Big-Big-Small-Big-Big-Small ↔ Small-Small-Small-Small-Big-Small-Small-Big
+645. 84593190 -> Big-Small-Big-Big-Small-Small-Big-Small ↔ Small-Big-Small-Small-Big-Big-Small-Big
+646. 45931909 -> Small-Big-Big-Small-Small-Big-Small-Big ↔ Big-Small-Small-Big-Big-Small-Big-Small
+647. 69784216 -> Big-Big-Big-Big-Small-Small-Small-Big ↔ Small-Small-Small-Small-Big-Big-Big-Small
+648. 97842164 -> Big-Big-Big-Small-Small-Small-Big-Small ↔ Small-Small-Small-Big-Big-Big-Small-Big
+649. 78421640 -> Big-Big-Small-Small-Small-Big-Small-Small ↔ Small-Small-Big-Big-Big-Small-Big-Big
+650. 84216408 -> Big-Small-Small-Small-Big-Small-Small-Big ↔ Small-Big-Big-Big-Small-Big-Big-Small
+651. 42164087 -> Small-Small-Small-Big-Small-Small-Big-Big ↔ Big-Big-Big-Small-Big-Big-Small-Small
+652. 21640870 -> Small-Small-Big-Small-Small-Big-Big-Small ↔ Big-Big-Small-Big-Big-Small-Small-Big
+653. 16408702 -> Small-Big-Small-Small-Big-Big-Small-Small ↔ Big-Small-Big-Big-Small-Small-Big-Big
+654. 40870271 -> Small-Small-Big-Big-Small-Small-Big-Small ↔ Big-Big-Small-Small-Big-Big-Small-Big
+655. 87027190 -> Big-Big-Small-Small-Big-Small-Big-Small ↔ Small-Small-Big-Big-Small-Big-Small-Big
+656. 70271904 -> Big-Small-Small-Big-Small-Big-Small-Small ↔ Small-Big-Big-Small-Big-Small-Big-Big
+657. 02719042 -> Small-Small-Big-Small-Big-Small-Small-Small ↔ Big-Big-Small-Big-Small-Big-Big-Big
+658. 27190425 -> Small-Big-Small-Big-Small-Small-Small-Big ↔ Big-Small-Big-Small-Big-Big-Big-Small
+659. 71904259 -> Big-Small-Big-Small-Small-Small-Big-Big ↔ Small-Big-Small-Big-Big-Big-Small-Small
+660. 19042598 -> Small-Big-Small-Small-Small-Big-Big-Big ↔ Big-Small-Big-Big-Big-Small-Small-Small
+661. 90425986 -> Big-Small-Small-Small-Big-Big-Big-Big ↔ Small-Big-Big-Big-Small-Small-Small-Small
+662. 25986624 -> Small-Big-Big-Big-Big-Big-Small-Small ↔ Big-Small-Small-Small-Small-Small-Big-Big
+663. 26740474 -> Small-Big-Big-Small-Small-Small-Big-Small ↔ Big-Small-Small-Big-Big-Big-Small-Big
+664. 40474074 -> Small-Small-Small-Big-Small-Small-Big-Small ↔ Big-Big-Big-Small-Big-Big-Small-Big
+665. 04740743 -> Small-Small-Big-Small-Small-Big-Small-Small ↔ Big-Big-Small-Big-Big-Small-Big-Big
+666. 47407434 -> Small-Big-Small-Small-Big-Small-Small-Small ↔ Big-Small-Big-Big-Small-Big-Big-Big
+667. 74074344 -> Big-Small-Small-Big-Small-Small-Small-Small ↔ Small-Big-Big-Small-Big-Big-Big-Big
+668. 40743448 -> Small-Small-Big-Small-Small-Small-Small-Big ↔ Big-Big-Small-Big-Big-Big-Big-Small
+669. 07434487 -> Small-Big-Small-Small-Small-Small-Big-Big ↔ Big-Small-Big-Big-Big-Big-Small-Small
+670. 43448783 -> Small-Small-Small-Small-Big-Big-Big-Small ↔ Big-Big-Big-Big-Small-Small-Small-Big
+671. 83002277 -> Big-Small-Small-Small-Small-Small-Big-Big ↔ Small-Big-Big-Big-Big-Big-Small-Small
+672. 28821833 -> Small-Big-Big-Small-Small-Big-Small-Small ↔ Big-Small-Small-Big-Big-Small-Big-Big
+673. 33171845 -> Small-Small-Small-Big-Small-Big-Small-Big ↔ Big-Big-Big-Small-Big-Small-Big-Small
+674. 31718459 -> Small-Small-Big-Small-Big-Small-Big-Big ↔ Big-Big-Small-Big-Small-Big-Small-Small
+675. 17184599 -> Small-Big-Small-Big-Small-Big-Big-Big ↔ Big-Small-Big-Small-Big-Small-Small-Small
+676. 71845992 -> Big-Small-Big-Small-Big-Big-Big-Small ↔ Small-Big-Small-Big-Small-Small-Small-Big
+677. 18459922 -> Small-Big-Small-Big-Big-Big-Small-Small ↔ Big-Small-Big-Small-Small-Small-Big-Big
+678. 84599221 -> Big-Small-Big-Big-Big-Small-Small-Small ↔ Small-Big-Small-Small-Small-Big-Big-Big
+679. 45992215 -> Small-Big-Big-Big-Small-Small-Small-Big ↔ Big-Small-Small-Small-Big-Big-Big-Small
+680. 99221545 -> Big-Big-Small-Small-Small-Big-Small-Big ↔ Small-Small-Big-Big-Big-Small-Big-Small
+681. 15454252 -> Small-Big-Small-Big-Small-Small-Big-Small ↔ Big-Small-Big-Small-Big-Big-Small-Big
+682. 37097105 -> Small-Big-Small-Big-Big-Small-Small-Big ↔ Big-Small-Big-Small-Small-Big-Big-Small
+683. 59949527 -> Big-Big-Big-Small-Big-Big-Small-Big ↔ Small-Small-Small-Big-Small-Small-Big-Small
+684. 94952757 -> Big-Small-Big-Big-Small-Big-Big-Big ↔ Small-Big-Small-Small-Big-Small-Small-Small
+685. 49527570 -> Small-Big-Big-Small-Big-Big-Big-Small ↔ Big-Small-Small-Big-Small-Small-Small-Big
+686. 95275700 -> Big-Big-Small-Big-Big-Big-Small-Small ↔ Small-Small-Big-Small-Small-Small-Big-Big
+687. 52757005 -> Big-Small-Big-Big-Big-Small-Small-Big ↔ Small-Big-Small-Small-Small-Big-Big-Small
+688. 43607915 -> Small-Small-Big-Small-Big-Big-Small-Big ↔ Big-Big-Small-Big-Small-Small-Big-Small
+689. 36079156 -> Small-Big-Small-Big-Big-Small-Big-Big ↔ Big-Small-Big-Small-Small-Big-Small-Small
+690. 07915659 -> Small-Big-Big-Small-Big-Big-Big-Big ↔ Big-Small-Small-Big-Small-Small-Small-Small
+691. 79156596 -> Big-Big-Small-Big-Big-Big-Big-Big ↔ Small-Small-Big-Small-Small-Small-Small-Small
+692. 91565961 -> Big-Small-Big-Big-Big-Big-Big-Small ↔ Small-Big-Small-Small-Small-Small-Small-Big
+693. 74669544 -> Big-Small-Big-Big-Big-Big-Small-Small ↔ Small-Big-Small-Small-Small-Small-Big-Big
+694. 54427185 -> Big-Small-Small-Small-Big-Small-Big-Big ↔ Small-Big-Big-Big-Small-Big-Small-Small
+695. 44271856 -> Small-Small-Small-Big-Small-Big-Big-Big ↔ Big-Big-Big-Small-Big-Small-Small-Small
+696. 27185662 -> Small-Big-Small-Big-Big-Big-Big-Small ↔ Big-Small-Big-Small-Small-Small-Small-Big
+697. 56628047 -> Big-Big-Big-Small-Big-Small-Small-Big ↔ Small-Small-Small-Big-Small-Big-Big-Small
+698. 04730434 -> Small-Small-Big-Small-Small-Small-Small-Small ↔ Big-Big-Small-Big-Big-Big-Big-Big
+699. 47304346 -> Small-Big-Small-Small-Small-Small-Small-Big ↔ Big-Small-Big-Big-Big-Big-Big-Small
+700. 00310607 -> Small-Small-Small-Small-Small-Big-Small-Big ↔ Big-Big-Big-Big-Big-Small-Big-Small
+701. 03106073 -> Small-Small-Small-Small-Big-Small-Big-Small ↔ Big-Big-Big-Big-Small-Big-Small-Big
+702. 10607382 -> Small-Small-Big-Small-Big-Small-Big-Small ↔ Big-Big-Small-Big-Small-Big-Small-Big
+703. 06073827 -> Small-Big-Small-Big-Small-Big-Small-Big ↔ Big-Small-Big-Small-Big-Small-Big-Small
+704. 60738273 -> Big-Small-Big-Small-Big-Small-Big-Small ↔ Small-Big-Small-Big-Small-Big-Small-Big
+705. 07382732 -> Small-Big-Small-Big-Small-Big-Small-Small ↔ Big-Small-Big-Small-Big-Small-Big-Big
+706. 73827325 -> Big-Small-Big-Small-Big-Small-Small-Big ↔ Small-Big-Small-Big-Small-Big-Big-Small
+707. 69404094 -> Big-Big-Small-Small-Small-Small-Big-Small ↔ Small-Small-Big-Big-Big-Big-Small-Big
+708. 94040948 -> Big-Small-Small-Small-Small-Big-Small-Big ↔ Small-Big-Big-Big-Big-Small-Big-Small
+709. 32476648 -> Small-Small-Small-Big-Big-Big-Small-Big ↔ Big-Big-Big-Small-Small-Small-Big-Small
+710. 05424623 -> Small-Big-Small-Small-Small-Big-Small-Small ↔ Big-Small-Big-Big-Big-Small-Big-Big
+711. 54246234 -> Big-Small-Small-Small-Big-Small-Small-Small ↔ Small-Big-Big-Big-Small-Big-Big-Big
+712. 42462342 -> Small-Small-Small-Big-Small-Small-Small-Small ↔ Big-Big-Big-Small-Big-Big-Big-Big
+713. 59405819 -> Big-Big-Small-Small-Big-Big-Small-Big ↔ Small-Small-Big-Big-Small-Small-Big-Small
+714. 94058197 -> Big-Small-Small-Big-Big-Small-Big-Big ↔ Small-Big-Big-Small-Small-Big-Small-Small
+715. 40983038 -> Small-Small-Big-Big-Small-Small-Small-Big ↔ Big-Big-Small-Small-Big-Big-Big-Small
+716. 88492088 -> Big-Big-Small-Big-Small-Small-Big-Big ↔ Small-Small-Big-Small-Big-Big-Small-Small
+717. 84920883 -> Big-Small-Big-Small-Small-Big-Big-Small ↔ Small-Big-Small-Big-Big-Small-Small-Big
+718. 49208835 -> Small-Big-Small-Small-Big-Big-Small-Big ↔ Big-Small-Big-Big-Small-Small-Big-Small
+719. 88359110 -> Big-Big-Small-Big-Big-Small-Small-Small ↔ Small-Small-Big-Small-Small-Big-Big-Big
+720. 20528650 -> Small-Small-Big-Small-Big-Big-Big-Small ↔ Big-Big-Small-Big-Small-Small-Small-Big
+721. 05286506 -> Small-Big-Small-Big-Big-Big-Small-Big ↔ Big-Small-Big-Small-Small-Small-Big-Small
+722. 74204823 -> Big-Small-Small-Small-Small-Big-Small-Small ↔ Small-Big-Big-Big-Big-Small-Big-Big
+723. 84814615 -> Big-Small-Big-Small-Small-Big-Small-Big ↔ Small-Big-Small-Big-Big-Small-Big-Small
+724. 48146159 -> Small-Big-Small-Small-Big-Small-Big-Big ↔ Big-Small-Big-Big-Small-Big-Small-Small
+725. 44463571 -> Small-Small-Small-Big-Small-Big-Big-Small ↔ Big-Big-Big-Small-Big-Small-Small-Big
+726. 38330464 -> Small-Big-Small-Small-Small-Small-Big-Small ↔ Big-Small-Big-Big-Big-Big-Small-Big
+727. 33046439 -> Small-Small-Small-Small-Big-Small-Small-Big ↔ Big-Big-Big-Big-Small-Big-Big-Small
+728. 64394372 -> Big-Small-Small-Big-Small-Small-Big-Small ↔ Small-Big-Big-Small-Big-Big-Small-Big
+729. 92376170 -> Big-Small-Small-Big-Big-Small-Big-Small ↔ Small-Big-Big-Small-Small-Big-Small-Big
+730. 78511069 -> Big-Big-Big-Small-Small-Small-Big-Big ↔ Small-Small-Small-Big-Big-Big-Small-Small
+731. 85110693 -> Big-Big-Small-Small-Small-Big-Big-Small ↔ Small-Small-Big-Big-Big-Small-Small-Big
+732. 51106932 -> Big-Small-Small-Small-Big-Big-Small-Small ↔ Small-Big-Big-Big-Small-Small-Big-Big
+733. 79590529 -> Big-Big-Big-Big-Small-Big-Small-Big ↔ Small-Small-Small-Small-Big-Small-Big-Small
+734. 95905299 -> Big-Big-Big-Small-Big-Small-Big-Big ↔ Small-Small-Small-Big-Small-Big-Small-Small
+735. 59052998 -> Big-Big-Small-Big-Small-Big-Big-Big ↔ Small-Small-Big-Small-Big-Small-Small-Small
+736. 90529988 -> Big-Small-Big-Small-Big-Big-Big-Big ↔ Small-Big-Small-Big-Small-Small-Small-Small
+737. 35072660 -> Small-Big-Small-Big-Small-Big-Big-Small ↔ Big-Small-Big-Small-Big-Small-Small-Big
+738. 50726608 -> Big-Small-Big-Small-Big-Big-Small-Big ↔ Small-Big-Small-Big-Small-Small-Big-Small
+739. 55667735 -> Big-Big-Big-Big-Big-Big-Small-Big ↔ Small-Small-Small-Small-Small-Small-Big-Small
+740. 71852232 -> Big-Small-Big-Big-Small-Small-Small-Small ↔ Small-Big-Small-Small-Big-Big-Big-Big
+741. 23246498 -> Small-Small-Small-Small-Big-Small-Big-Big ↔ Big-Big-Big-Big-Small-Big-Small-Small
+742. 46498392 -> Small-Big-Small-Big-Big-Small-Big-Small ↔ Big-Small-Big-Small-Small-Big-Small-Big
+743. 64983923 -> Big-Small-Big-Big-Small-Big-Small-Small ↔ Small-Big-Small-Small-Big-Small-Big-Big
+744. 22784666 -> Small-Small-Big-Big-Small-Big-Big-Big ↔ Big-Big-Small-Small-Big-Small-Small-Small
+745. 22334482 -> Small-Small-Small-Small-Small-Small-Big-Small ↔ Big-Big-Big-Big-Big-Big-Small-Big
+746. 64271737 -> Big-Small-Small-Big-Small-Big-Small-Big ↔ Small-Big-Big-Small-Big-Small-Big-Small
+747. 89237249 -> Big-Big-Small-Small-Big-Small-Small-Big ↔ Small-Small-Big-Big-Small-Big-Big-Small
+748. 23724936 -> Small-Small-Big-Small-Small-Big-Small-Big ↔ Big-Big-Small-Big-Big-Small-Big-Small
+749. 37249364 -> Small-Big-Small-Small-Big-Small-Big-Small ↔ Big-Small-Big-Big-Small-Big-Small-Big
+750. 43888364 -> Small-Small-Big-Big-Big-Small-Big-Small ↔ Big-Big-Small-Small-Small-Big-Small-Big
+751. 38883644 -> Small-Big-Big-Big-Small-Big-Small-Small ↔ Big-Small-Small-Small-Big-Small-Big-Big
+752. 88364418 -> Big-Big-Small-Big-Small-Small-Small-Big ↔ Small-Small-Big-Small-Big-Big-Big-Small
+753. 18361442 -> Small-Big-Small-Big-Small-Small-Small-Small ↔ Big-Small-Big-Small-Big-Big-Big-Big
+754. 83614428 -> Big-Small-Big-Small-Small-Small-Small-Big ↔ Small-Big-Small-Big-Big-Big-Big-Small
+755. 62747332 -> Big-Small-Big-Small-Big-Small-Small-Small ↔ Small-Big-Small-Big-Small-Big-Big-Big
+756. 93767491 -> Big-Small-Big-Big-Big-Small-Big-Small ↔ Small-Big-Small-Small-Small-Big-Small-Big
+757. 37674917 -> Small-Big-Big-Big-Small-Big-Small-Big ↔ Big-Small-Small-Small-Big-Small-Big-Small
+758. 76749173 -> Big-Big-Big-Small-Big-Small-Big-Small ↔ Small-Small-Small-Big-Small-Big-Small-Big
+759. 67491738 -> Big-Big-Small-Big-Small-Big-Small-Big ↔ Small-Small-Big-Small-Big-Small-Big-Small
+760. 74917389 -> Big-Small-Big-Small-Big-Small-Big-Big ↔ Small-Big-Small-Big-Small-Big-Small-Small
+761. 86469181 -> Big-Big-Small-Big-Big-Small-Big-Small ↔ Small-Small-Big-Small-Small-Big-Small-Big
+762. 64691818 -> Big-Small-Big-Big-Small-Big-Small-Big ↔ Small-Big-Small-Small-Big-Small-Big-Small
+763. 46918184 -> Small-Big-Big-Small-Big-Small-Big-Small ↔ Big-Small-Small-Big-Small-Big-Small-Big
+764. 81934471 -> Big-Small-Big-Small-Small-Small-Big-Small ↔ Small-Big-Small-Big-Big-Big-Small-Big
+765. 74828812 -> Big-Small-Big-Small-Big-Big-Small-Small ↔ Small-Big-Small-Big-Small-Small-Big-Big
+766. 14992739 -> Small-Small-Big-Big-Small-Big-Small-Big ↔ Big-Big-Small-Small-Big-Small-Big-Small
+767. 49927397 -> Small-Big-Big-Small-Big-Small-Big-Big ↔ Big-Small-Small-Big-Small-Big-Small-Small
+768. 28818414 -> Small-Big-Big-Small-Big-Small-Small-Small ↔ Big-Small-Small-Big-Small-Big-Big-Big
+769. 67789381 -> Big-Big-Big-Big-Big-Small-Big-Small ↔ Small-Small-Small-Small-Small-Big-Small-Big
+770. 96493764 -> Big-Big-Small-Big-Small-Big-Big-Small ↔ Small-Small-Big-Small-Big-Small-Small-Big
+771. 67381811 -> Big-Big-Small-Big-Small-Big-Small-Small ↔ Small-Small-Big-Small-Big-Small-Big-Big
+
+📊 Cyclic Trends
+----------------
+772. 22661122 -> Small-Small-Big-Big-Small-Small-Small-Small (cycle 10)
+773. 26611221 -> Small-Big-Big-Small-Small-Small-Small-Small (cycle 10)
+774. 66112211 -> Big-Big-Small-Small-Small-Small-Small-Small (cycle 10)
+775. 61122111 -> Big-Small-Small-Small-Small-Small-Small-Small (cycle 10)
+776. 11221111 -> Small-Small-Small-Small-Small-Small-Small-Small (cycle 10)
+777. 12211118 -> Small-Small-Small-Small-Small-Small-Small-Big (cycle 10)
+778. 22111188 -> Small-Small-Small-Small-Small-Small-Big-Big (cycle 10)
+779. 99991155 -> Big-Big-Big-Big-Small-Small-Big-Big (cycle 10)
+780. 66448855 -> Big-Big-Small-Small-Big-Big-Big-Big (cycle 10)
+781. 88774422 -> Big-Big-Big-Big-Small-Small-Small-Small (cycle 10)
+782. 00117744 -> Small-Small-Small-Small-Big-Big-Small-Small (cycle 10)
+783. 01177441 -> Small-Small-Small-Big-Big-Small-Small-Small (cycle 10)
+784. 11996666 -> Small-Small-Big-Big-Big-Big-Big-Big (cycle 10)
+785. 88844558 -> Big-Big-Big-Small-Small-Big-Big-Big (cycle 10)
+786. 84455889 -> Big-Small-Small-Big-Big-Big-Big-Big (cycle 10)
+787. 66442277 -> Big-Big-Small-Small-Small-Small-Big-Big (cycle 10)
+788. 55779911 -> Big-Big-Big-Big-Big-Big-Small-Small (cycle 10)
+789. 55667766 -> Big-Big-Big-Big-Big-Big-Big-Big (cycle 10)
+790. 00338877 -> Small-Small-Small-Small-Big-Big-Big-Big (cycle 10)
+791. 11550099 -> Small-Small-Big-Big-Small-Small-Big-Big (cycle 10)
+792. 15500999 -> Small-Big-Big-Small-Small-Big-Big-Big (cycle 10)
+793. 92215454 -> Big-Small-Small-Small-Big-Small-Big-Small (cycle 10)
+794. 89007674 -> Big-Big-Small-Small-Big-Big-Big-Small (cycle 10)
+795. 28866881 -> Small-Big-Big-Big-Big-Big-Big-Small (cycle 10)
+796. 86688110 -> Big-Big-Big-Big-Big-Small-Small-Small (cycle 10)
+797. 68811007 -> Big-Big-Big-Small-Small-Small-Small-Big (cycle 10)
+798. 22999944 -> Small-Small-Big-Big-Big-Big-Small-Small (cycle 10)
+799. 29999443 -> Small-Big-Big-Big-Big-Small-Small-Small (cycle 10)
+800. 99944334 -> Big-Big-Big-Small-Small-Small-Small-Small (cycle 10)
+801. 94433448 -> Big-Small-Small-Small-Small-Small-Small-Big (cycle 10)
+802. 14411992 -> Small-Small-Small-Small-Small-Big-Big-Small (cycle 10)
+803. 28449224 -> Small-Big-Small-Small-Big-Small-Small-Small (cycle 10)
+804. 96688337 -> Big-Big-Big-Big-Big-Small-Small-Big (cycle 10)
+805. 76611993 -> Big-Big-Big-Small-Small-Big-Big-Small (cycle 10)
+806. 66119933 -> Big-Big-Small-Small-Big-Big-Small-Small (cycle 10)
+807. 13399116 -> Small-Small-Small-Big-Big-Small-Small-Big (cycle 10)
+808. 39911663 -> Small-Big-Big-Small-Small-Big-Big-Small (cycle 10)
+809. 91166333 -> Big-Small-Small-Big-Big-Small-Small-Small (cycle 10)
+810. 36699777 -> Small-Big-Big-Big-Big-Big-Big-Big (cycle 10)
+811. 21232622 -> Small-Small-Small-Small-Small-Big-Small-Small (cycle 10)
+812. 61866265 -> Big-Small-Big-Big-Big-Small-Big-Big (cycle 10)
+813. 18662656 -> Small-Big-Big-Big-Small-Big-Big-Big (cycle 10)
+814. 86626569 -> Big-Big-Big-Small-Big-Big-Big-Big (cycle 10)
+815. 15313444 -> Small-Big-Small-Small-Small-Small-Small-Small (cycle 10)
+816. 57449482 -> Big-Big-Small-Small-Big-Small-Big-Small (cycle 10)
+817. 60743141 -> Big-Small-Big-Small-Small-Small-Small-Small (cycle 10)
+818. 38252760 -> Small-Big-Small-Big-Small-Big-Big-Small (cycle 10)
+819. 82527602 -> Big-Small-Big-Small-Big-Big-Small-Small (cycle 10)
+820. 25276022 -> Small-Big-Small-Big-Big-Small-Small-Small (cycle 10)
+821. 52760223 -> Big-Small-Big-Big-Small-Small-Small-Small (cycle 10)
+822. 27602238 -> Small-Big-Big-Small-Small-Small-Small-Big (cycle 10)
+823. 76022382 -> Big-Big-Small-Small-Small-Small-Big-Small (cycle 10)
+824. 60223829 -> Big-Small-Small-Small-Small-Big-Small-Big (cycle 10)
+825. 02238290 -> Small-Small-Small-Small-Big-Small-Big-Small (cycle 10)
+826. 03276787 -> Small-Small-Small-Big-Big-Big-Big-Big (cycle 10)
+827. 32767874 -> Small-Small-Big-Big-Big-Big-Big-Small (cycle 10)
+828. 82829005 -> Big-Small-Big-Small-Big-Small-Small-Big (cycle 10)
+829. 28290058 -> Small-Big-Small-Big-Small-Small-Big-Big (cycle 10)
+830. 73869334 -> Big-Small-Big-Big-Big-Small-Small-Small (cycle 10)
+831. 55376279 -> Big-Big-Small-Big-Big-Small-Big-Big (cycle 10)
+832. 64422776 -> Big-Small-Small-Small-Small-Big-Big-Big (cycle 10)
+833. 30088774 -> Small-Small-Small-Big-Big-Big-Big-Small (cycle 10)
+834. 11111999 -> Small-Small-Small-Small-Small-Big-Big-Big (cycle 10)
+835. 19999922 -> Small-Big-Big-Big-Big-Big-Small-Small (cycle 10)
+836. 99222225 -> Big-Big-Small-Small-Small-Small-Small-Big (cycle 10)
+837. 92222255 -> Big-Small-Small-Small-Small-Small-Big-Big (cycle 10)
+838. 72299007 -> Big-Small-Small-Big-Big-Small-Small-Big (cycle 10)
+839. 25588445 -> Small-Big-Big-Big-Big-Small-Small-Big (cycle 10)
+840. 62211773 -> Big-Small-Small-Small-Small-Big-Big-Small (cycle 10)
+841. 88411558 -> Big-Big-Small-Small-Small-Big-Big-Big (cycle 10)
+842. 84115589 -> Big-Small-Small-Small-Big-Big-Big-Big (cycle 10)
+843. 11558926 -> Small-Small-Big-Big-Big-Big-Small-Big (cycle 10)
+844. 15589266 -> Small-Big-Big-Big-Big-Small-Big-Big (cycle 10)
+845. 32500223 -> Small-Small-Big-Small-Small-Small-Small-Small (cycle 10)
+846. 25002238 -> Small-Big-Small-Small-Small-Small-Small-Big (cycle 10)
+847. 88335528 -> Big-Big-Small-Small-Big-Big-Small-Big (cycle 10)
+848. 83355286 -> Big-Small-Small-Big-Big-Small-Big-Big (cycle 10)
+849. 33552867 -> Small-Small-Big-Big-Small-Big-Big-Big (cycle 10)
+850. 35528677 -> Small-Big-Big-Small-Big-Big-Big-Big (cycle 10)
+851. 55286776 -> Big-Big-Small-Big-Big-Big-Big-Big (cycle 10)
+852. 52867763 -> Big-Small-Big-Big-Big-Big-Big-Small (cycle 10)
+853. 92266662 -> Big-Small-Small-Big-Big-Big-Big-Small (cycle 10)
+854. 99900622 -> Big-Big-Big-Small-Small-Big-Small-Small (cycle 10)
+855. 99006221 -> Big-Big-Small-Small-Big-Small-Small-Small (cycle 10)
+856. 90062213 -> Big-Small-Small-Big-Small-Small-Small-Small (cycle 10)
+857. 41188800 -> Small-Small-Small-Big-Big-Big-Small-Small (cycle 10)
+858. 00194887 -> Small-Small-Small-Big-Small-Big-Big-Big (cycle 10)
+859. 01948877 -> Small-Small-Big-Small-Big-Big-Big-Big (cycle 10)
+860. 01228554 -> Small-Small-Small-Small-Big-Big-Big-Small (cycle 10)
+861. 98899850 -> Big-Big-Big-Big-Big-Big-Big-Small (cycle 10)
+862. 50088900 -> Big-Small-Small-Big-Big-Big-Small-Small (cycle 10)
+863. 00889009 -> Small-Small-Big-Big-Big-Small-Small-Big (cycle 10)
+864. 08890099 -> Small-Big-Big-Big-Small-Small-Big-Big (cycle 10)
+
+📊 Alternating Trends
+---------------------
+865. 06073827 -> Small-Big-Small-Big-Small-Big-Small-Big
+866. 60738273 -> Big-Small-Big-Small-Big-Small-Big-Small
+
+📊 Locked Trends
+----------------
+867. 10551140 -> Small-Small-Big-Big-Small-Small-Small-Small (locked)
+868. 14039404 -> Small-Small-Small-Small-Big-Small-Small-Small (locked)
+869. 40465450 -> Small-Small-Small-Big-Big-Small-Big-Small (locked)
+870. 45045246 -> Small-Big-Small-Small-Big-Small-Small-Big (locked)
+871. 24669900 -> Small-Small-Big-Big-Big-Big-Small-Small (locked)
+872. 90000886 -> Big-Small-Small-Small-Small-Big-Big-Big (locked)
+873. 88663362 -> Big-Big-Big-Big-Small-Small-Big-Small (locked)
+874. 36285144 -> Small-Big-Small-Big-Big-Small-Small-Small (locked)
+875. 14476802 -> Small-Small-Small-Big-Big-Big-Small-Small (locked)
+876. 80220674 -> Big-Small-Small-Small-Small-Big-Big-Small (locked)
+877. 67467066 -> Big-Big-Small-Big-Big-Small-Big-Big (locked)
+878. 06611668 -> Small-Big-Big-Small-Small-Big-Big-Big (locked)
+879. 66886600 -> Big-Big-Big-Big-Big-Big-Small-Small (locked)
+880. 60055330 -> Big-Small-Small-Big-Big-Small-Small-Small (locked)
+881. 33003339 -> Small-Small-Small-Small-Small-Small-Small-Big (locked)
+882. 33997729 -> Small-Small-Big-Big-Big-Big-Small-Big (locked)
+883. 72922002 -> Big-Small-Big-Small-Small-Small-Small-Small (locked)
+884. 00225500 -> Small-Small-Small-Small-Big-Big-Small-Small (locked)
+885. 50077779 -> Big-Small-Small-Big-Big-Big-Big-Big (locked)
+886. 77993366 -> Big-Big-Big-Big-Small-Small-Big-Big (locked)
+887. 36677883 -> Small-Big-Big-Big-Big-Big-Big-Small (locked)
+888. 88336699 -> Big-Big-Small-Small-Big-Big-Big-Big (locked)
+889. 69944668 -> Big-Big-Big-Small-Small-Big-Big-Big (locked)
+890. 66881144 -> Big-Big-Big-Big-Small-Small-Small-Small (locked)
+891. 22553388 -> Small-Small-Big-Big-Small-Small-Big-Big (locked)
+892. 38855009 -> Small-Big-Big-Big-Big-Small-Small-Big (locked)
+893. 30044222 -> Small-Small-Small-Small-Small-Small-Small-Small (locked)
+894. 72255771 -> Big-Small-Small-Big-Big-Big-Big-Small (locked)
+895. 77117700 -> Big-Big-Small-Small-Big-Big-Small-Small (locked)
+896. 70022332 -> Big-Small-Small-Small-Small-Small-Small-Small (locked)
+897. 11118899 -> Small-Small-Small-Small-Big-Big-Big-Big (locked)
+898. 89999335 -> Big-Big-Big-Big-Big-Small-Small-Big (locked)
+899. 09922117 -> Small-Big-Big-Small-Small-Small-Small-Big (locked)
+900. 81188449 -> Big-Small-Small-Big-Big-Small-Small-Big (locked)
+901. 19911443 -> Small-Big-Big-Small-Small-Small-Small-Small (locked)
+902. 44330055 -> Small-Small-Small-Small-Small-Small-Big-Big (locked)
+903. 49955666 -> Small-Big-Big-Big-Big-Big-Big-Big (locked)
+904. 48855224 -> Small-Big-Big-Big-Big-Small-Small-Small (locked)
+905. 67766998 -> Big-Big-Big-Big-Big-Big-Big-Big (locked)
+906. 30022887 -> Small-Small-Small-Small-Small-Big-Big-Big (locked)
+907. 42277221 -> Small-Small-Small-Big-Big-Small-Small-Small (locked)
+908. 32244553 -> Small-Small-Small-Small-Small-Big-Big-Small (locked)
+909. 21199666 -> Small-Small-Small-Big-Big-Big-Big-Big (locked)
+910. 67755553 -> Big-Big-Big-Big-Big-Big-Big-Small (locked)
+911. 99441199 -> Big-Big-Small-Small-Small-Small-Big-Big (locked)
+912. 76644447 -> Big-Big-Big-Small-Small-Small-Small-Big (locked)
+913. 11779988 -> Small-Small-Big-Big-Big-Big-Big-Big (locked)
+914. 98800221 -> Big-Big-Big-Small-Small-Small-Small-Small (locked)
+915. 73399900 -> Big-Small-Small-Big-Big-Big-Small-Small (locked)
+916. 23355553 -> Small-Small-Small-Big-Big-Big-Big-Small (locked)
+917. 67700992 -> Big-Big-Big-Small-Small-Big-Big-Small (locked)
+918. 00088009 -> Small-Small-Small-Big-Big-Small-Small-Big (locked)
+919. 55137014 -> Big-Big-Small-Small-Big-Small-Small-Small (locked)
+920. 01454833 -> Small-Small-Small-Big-Small-Big-Small-Small (locked)
+921. 83399949 -> Big-Small-Small-Big-Big-Big-Small-Big (locked)
+922. 94976537 -> Big-Small-Big-Big-Big-Big-Small-Big (locked)
+923. 53755199 -> Big-Small-Big-Big-Big-Small-Big-Big (locked)
+924. 59823848 -> Big-Big-Big-Small-Small-Big-Small-Big (locked)
+925. 84897967 -> Big-Small-Big-Big-Big-Big-Big-Big (locked)
+926. 45500771 -> Small-Big-Big-Small-Small-Big-Big-Small (locked)
+927. 58578459 -> Big-Big-Big-Big-Big-Small-Big-Big (locked)
+928. 45931909 -> Small-Big-Big-Small-Small-Big-Small-Big (locked)
+929. 66978421 -> Big-Big-Big-Big-Big-Small-Small-Small (locked)
+930. 42164087 -> Small-Small-Small-Big-Small-Small-Big-Big (locked)
+931. 71904259 -> Big-Small-Big-Small-Small-Small-Big-Big (locked)
+932. 25986624 -> Small-Big-Big-Big-Big-Big-Small-Small (locked)
+933. 62472674 -> Big-Small-Small-Big-Small-Big-Big-Small (locked)
+934. 67404740 -> Big-Big-Small-Small-Small-Big-Small-Small (locked)
+935. 74074344 -> Big-Small-Small-Big-Small-Small-Small-Small (locked)
+936. 83002277 -> Big-Small-Small-Small-Small-Small-Big-Big (locked)
+937. 77000033 -> Big-Big-Small-Small-Small-Small-Small-Small (locked)
+938. 61130028 -> Big-Small-Small-Small-Small-Small-Small-Big (locked)
+939. 02882183 -> Small-Small-Big-Big-Small-Small-Big-Small (locked)
+940. 18331718 -> Small-Big-Small-Small-Small-Big-Small-Big (locked)
+941. 71845992 -> Big-Small-Big-Small-Big-Big-Big-Small (locked)
+942. 99221545 -> Big-Big-Small-Small-Small-Big-Small-Big (locked)
+943. 54542524 -> Big-Small-Big-Small-Small-Big-Small-Small (locked)
+944. 95437097 -> Big-Big-Small-Small-Big-Small-Big-Big (locked)
+945. 59949527 -> Big-Big-Big-Small-Big-Big-Small-Big (locked)
+946. 52757005 -> Big-Small-Big-Big-Big-Small-Small-Big (locked)
+947. 00565436 -> Small-Small-Big-Big-Big-Small-Small-Big (locked)
+948. 43607915 -> Small-Small-Big-Small-Big-Big-Small-Big (locked)
+949. 91565961 -> Big-Small-Big-Big-Big-Big-Big-Small (locked)
+950. 44271856 -> Small-Small-Small-Big-Small-Big-Big-Big (locked)
+951. 85662804 -> Big-Big-Big-Big-Small-Big-Small-Small (locked)
+952. 77548862 -> Big-Big-Big-Small-Big-Big-Big-Small (locked)
+953. 70031060 -> Big-Small-Small-Small-Small-Small-Big-Small (locked)
+954. 06073827 -> Small-Big-Small-Big-Small-Big-Small-Big (locked)
+955. 82732577 -> Big-Small-Big-Small-Small-Big-Big-Big (locked)
+956. 57718886 -> Big-Big-Big-Small-Big-Big-Big-Big (locked)
+957. 83247664 -> Big-Small-Small-Small-Big-Big-Big-Small (locked)
+958. 66485705 -> Big-Big-Small-Big-Big-Big-Small-Big (locked)
+959. 70594788 -> Big-Small-Big-Big-Small-Big-Big-Big (locked)
+960. 10542462 -> Small-Small-Big-Small-Small-Small-Big-Small (locked)
+961. 46234226 -> Small-Big-Small-Small-Small-Small-Small-Big (locked)
+962. 22602226 -> Small-Small-Big-Small-Small-Small-Small-Big (locked)
+963. 63594058 -> Big-Small-Big-Big-Small-Small-Big-Big (locked)
+964. 05819740 -> Small-Big-Big-Small-Big-Big-Small-Small (locked)
+965. 88492088 -> Big-Big-Small-Big-Small-Small-Big-Big (locked)
+966. 91106339 -> Big-Small-Small-Small-Big-Small-Small-Big (locked)
+967. 33961205 -> Small-Small-Big-Big-Small-Small-Small-Big (locked)
+968. 20528650 -> Small-Small-Big-Small-Big-Big-Big-Small (locked)
+969. 65068814 -> Big-Big-Small-Big-Big-Big-Small-Small (locked)
+970. 74778900 -> Big-Small-Big-Big-Big-Big-Small-Small (locked)
+971. 74204823 -> Big-Small-Small-Small-Small-Big-Small-Small (locked)
+972. 48146159 -> Small-Big-Small-Small-Big-Small-Big-Big (locked)
+973. 56844463 -> Big-Big-Big-Small-Small-Small-Big-Small (locked)
+974. 46357186 -> Small-Big-Small-Big-Big-Small-Big-Big (locked)
+975. 18603833 -> Small-Big-Big-Small-Small-Big-Small-Small (locked)
+976. 64394372 -> Big-Small-Small-Big-Small-Small-Big-Small (locked)
+977. 37205557 -> Small-Big-Small-Small-Big-Big-Big-Big (locked)
+978. 92376170 -> Big-Small-Small-Big-Big-Small-Big-Small (locked)
+979. 32541255 -> Small-Small-Big-Small-Small-Small-Big-Big (locked)
+980. 62418176 -> Big-Small-Small-Small-Big-Small-Big-Big (locked)
+981. 17645551 -> Small-Big-Big-Small-Big-Big-Big-Small (locked)
+982. 95905299 -> Big-Big-Big-Small-Big-Small-Big-Big (locked)
+983. 35072660 -> Small-Big-Small-Big-Small-Big-Big-Small (locked)
+984. 66088238 -> Big-Big-Small-Big-Big-Small-Small-Big (locked)
+985. 23888880 -> Small-Small-Big-Big-Big-Big-Big-Small (locked)
+986. 66773555 -> Big-Big-Big-Big-Small-Big-Big-Big (locked)
+987. 65357567 -> Big-Big-Small-Big-Big-Big-Big-Big (locked)
+988. 56718522 -> Big-Big-Big-Small-Big-Big-Small-Small (locked)
+989. 46498392 -> Small-Big-Small-Big-Big-Small-Big-Small (locked)
+990. 66724934 -> Big-Big-Big-Small-Small-Big-Small-Small (locked)
+991. 93420818 -> Big-Small-Small-Small-Small-Big-Small-Big (locked)
+992. 67422784 -> Big-Big-Small-Small-Small-Big-Big-Small (locked)
+993. 78466661 -> Big-Big-Small-Big-Big-Big-Big-Small (locked)
+994. 66166114 -> Big-Big-Small-Big-Big-Small-Small-Small (locked)
+995. 36661998 -> Small-Big-Big-Big-Small-Big-Big-Big (locked)
+996. 71737889 -> Big-Small-Big-Small-Big-Big-Big-Big (locked)
+997. 72493647 -> Big-Small-Small-Big-Small-Big-Small-Big (locked)
+998. 64796334 -> Big-Small-Big-Big-Big-Small-Small-Small (locked)
+999. 33438883 -> Small-Small-Small-Small-Big-Big-Big-Small (locked)
+1000. 88364418 -> Big-Big-Small-Big-Small-Small-Small-Big (locked)
+1001. 81892213 -> Big-Small-Big-Big-Small-Small-Small-Small (locked)
+1002. 21332627 -> Small-Small-Small-Small-Small-Big-Small-Big (locked)
+1003. 62747332 -> Big-Small-Big-Small-Big-Small-Small-Small (locked)
+1004. 34942431 -> Small-Small-Big-Small-Small-Small-Small-Small (locked)
+1005. 43168178 -> Small-Small-Small-Big-Big-Small-Big-Big (locked)
+1006. 17861124 -> Small-Big-Big-Big-Small-Small-Small-Small (locked)
+1007. 37674917 -> Small-Big-Big-Big-Small-Big-Small-Big (locked)
+1008. 96991236 -> Big-Big-Big-Big-Small-Small-Small-Big (locked)
+1009. 23616986 -> Small-Small-Big-Small-Big-Big-Big-Big (locked)
+1010. 91818484 -> Big-Small-Big-Small-Big-Small-Big-Small (locked)
+1011. 48491168 -> Small-Big-Small-Big-Small-Small-Big-Big (locked)
+1012. 23676397 -> Small-Small-Big-Big-Big-Small-Big-Big (locked)
+1013. 61289189 -> Big-Small-Small-Big-Big-Small-Big-Big (locked)
+1014. 79223128 -> Big-Big-Small-Small-Small-Small-Small-Big (locked)
+1015. 12814621 -> Small-Small-Big-Small-Small-Big-Small-Small (locked)
+1016. 62184842 -> Big-Small-Small-Big-Small-Big-Small-Small (locked)
+1017. 31347264 -> Small-Small-Small-Small-Big-Small-Big-Small (locked)
+1018. 26492239 -> Small-Big-Small-Big-Small-Small-Small-Big (locked)
+1019. 12819344 -> Small-Small-Big-Small-Big-Small-Small-Small (locked)
+1020. 34471262 -> Small-Small-Small-Big-Small-Small-Big-Small (locked)
+1021. 26298846 -> Small-Big-Small-Big-Big-Big-Small-Big (locked)
+1022. 63748288 -> Big-Small-Big-Small-Big-Small-Big-Big (locked)
+1023. 27397642 -> Small-Big-Small-Big-Big-Big-Small-Small (locked)
+1024. 48213463 -> Small-Big-Small-Small-Small-Small-Big-Small (locked)
+1025. 13778483 -> Small-Small-Big-Big-Big-Small-Big-Small (locked)
+1026. 48342969 -> Small-Big-Small-Small-Small-Big-Big-Big (locked)
+1027. 86436794 -> Big-Big-Small-Small-Big-Big-Big-Small (locked)
+1028. 93437634 -> Big-Small-Small-Small-Big-Big-Small-Small (locked)
+1029. 73229618 -> Big-Small-Small-Small-Big-Big-Small-Big (locked)
+1030. 14392416 -> Small-Small-Small-Big-Small-Small-Small-Big (locked)
+1031. 98192899 -> Big-Big-Small-Big-Small-Big-Big-Big (locked)
+1032. 91912881 -> Big-Small-Big-Small-Small-Big-Big-Small (locked)
+1033. 73148424 -> Big-Small-Small-Small-Big-Small-Small-Small (locked)
+1034. 27829819 -> Small-Big-Big-Small-Big-Big-Small-Big (locked)
+1035. 46778938 -> Small-Big-Big-Big-Big-Big-Small-Big (locked)
+1036. 93813619 -> Big-Small-Big-Small-Small-Big-Small-Big (locked)
+1037. 61936428 -> Big-Small-Big-Small-Big-Small-Small-Big (locked)
+1038. 47174867 -> Small-Big-Small-Big-Small-Big-Big-Big (locked)
+1039. 86747312 -> Big-Big-Big-Small-Big-Small-Small-Small (locked)
+1040. 47496684 -> Small-Big-Small-Big-Big-Big-Big-Small (locked)
+1041. 41163322 -> Small-Small-Small-Big-Small-Small-Small-Small (locked)
+1042. 32223744 -> Small-Small-Small-Small-Small-Big-Small-Small (locked)
+1043. 77927463 -> Big-Big-Big-Small-Big-Small-Big-Small (locked)
+1044. 49112872 -> Small-Big-Small-Small-Small-Big-Big-Small (locked)
+1045. 27329412 -> Small-Big-Small-Small-Big-Small-Small-Small (locked)
+1046. 29191633 -> Small-Big-Small-Big-Small-Big-Small-Small (locked)
+1047. 64863737 -> Big-Small-Big-Big-Small-Big-Small-Big (locked)
+1048. 73736744 -> Big-Small-Big-Small-Big-Big-Small-Small (locked)
+1049. 13997232 -> Small-Small-Big-Big-Big-Small-Small-Small (locked)
+1050. 68471362 -> Big-Big-Small-Big-Small-Small-Big-Small (locked)
+1051. 74887182 -> Big-Small-Big-Big-Big-Small-Big-Small (locked)
+1052. 22681822 -> Small-Small-Big-Big-Small-Big-Small-Small (locked)
+1053. 82294268 -> Big-Small-Small-Big-Small-Small-Big-Big (locked)
+1054. 26817448 -> Small-Big-Big-Small-Big-Small-Small-Big (locked)
+1055. 74291147 -> Big-Small-Small-Big-Small-Small-Small-Big (locked)
+1056. 14716292 -> Small-Small-Big-Small-Big-Small-Big-Small (locked)
+1057. 37196218 -> Small-Big-Small-Big-Big-Small-Small-Big (locked)
+1058. 86777939 -> Big-Big-Big-Big-Big-Big-Small-Big (locked)
+1059. 93931328 -> Big-Small-Big-Small-Small-Small-Small-Big (locked)
+1060. 68832499 -> Big-Big-Big-Small-Small-Small-Big-Big (locked)
+1061. 87227417 -> Big-Big-Small-Small-Big-Small-Small-Big (locked)
+1062. 61193767 -> Big-Small-Small-Big-Small-Big-Big-Big (locked)
+1063. 17922373 -> Small-Big-Big-Small-Small-Small-Big-Small (locked)
+1064. 36926363 -> Small-Big-Big-Small-Big-Small-Big-Small (locked)
+1065. 72781643 -> Big-Small-Big-Big-Small-Big-Small-Small (locked)
+1066. 47617213 -> Small-Big-Big-Small-Big-Small-Small-Small (locked)
+1067. 26898194 -> Small-Big-Big-Big-Big-Small-Big-Small (locked)
+1068. 19463231 -> Small-Big-Small-Big-Small-Small-Small-Small (locked)
+1069. 39219782 -> Small-Big-Small-Small-Big-Big-Big-Small (locked)
+1070. 87416361 -> Big-Big-Small-Small-Big-Small-Big-Small (locked)
+1071. 36134941 -> Small-Big-Small-Small-Small-Big-Small-Small (locked)
+1072. 42297917 -> Small-Small-Small-Big-Big-Big-Small-Big (locked)
+1073. 61928648 -> Big-Small-Big-Small-Big-Big-Small-Big (locked)
+1074. 18681774 -> Small-Big-Big-Big-Small-Big-Big-Small (locked)
+1075. 26948466 -> Small-Big-Big-Small-Big-Small-Big-Big (locked)
+1076. 29663449 -> Small-Big-Big-Big-Small-Small-Small-Big (locked)
+1077. 49224334 -> Small-Big-Small-Small-Small-Small-Small-Small (locked)
+1078. 11113391 -> Small-Small-Small-Small-Small-Small-Big-Small (locked)
+1079. 41861868 -> Small-Small-Big-Big-Small-Big-Big-Big (locked)
+1080. 17962187 -> Small-Big-Big-Big-Small-Small-Big-Big (locked)
+1081. 43626418 -> Small-Small-Big-Small-Big-Small-Small-Big (locked)
+1082. 12621888 -> Small-Small-Big-Small-Small-Big-Big-Big (locked)
+1083. 14623637 -> Small-Small-Big-Small-Small-Big-Small-Big (locked)
+1084. 93449777 -> Big-Small-Small-Small-Big-Big-Big-Big (locked)
+1085. 79173648 -> Big-Big-Small-Big-Small-Big-Small-Big (locked)
+1086. 64892217 -> Big-Small-Big-Big-Small-Small-Small-Big (locked)
+1087. 99873749 -> Big-Big-Big-Big-Small-Big-Small-Big (locked)
+1088. 88112968 -> Big-Big-Small-Small-Small-Big-Big-Big (locked)
+1089. 48996179 -> Small-Big-Big-Big-Big-Small-Big-Big (locked)
+1090. 12938813 -> Small-Small-Big-Small-Big-Big-Small-Small (locked)
+1091. 64684661 -> Big-Small-Big-Big-Small-Big-Big-Small (locked)
+1092. 87936136 -> Big-Big-Big-Small-Big-Small-Small-Big (locked)
+1093. 89419617 -> Big-Big-Small-Small-Big-Big-Small-Big (locked)
+1094. 43992626 -> Small-Small-Big-Big-Small-Big-Small-Big (locked)
+1095. 74832392 -> Big-Small-Big-Small-Small-Small-Big-Small (locked)
+1096. 29391192 -> Small-Big-Small-Big-Small-Small-Big-Small (locked)
+1097. 19927668 -> Small-Big-Big-Small-Big-Big-Big-Big (locked)
+1098. 49177869 -> Small-Big-Small-Big-Big-Big-Big-Big (locked)
+1099. 22139646 -> Small-Small-Small-Small-Big-Big-Small-Big (locked)
+1100. 46924177 -> Small-Big-Big-Small-Small-Small-Big-Big (locked)
+1101. 94128162 -> Big-Small-Small-Small-Big-Small-Big-Small (locked)
+1102. 19981821 -> Small-Big-Big-Big-Small-Big-Small-Small (locked)
+1103. 11450648 -> Small-Small-Small-Big-Small-Big-Small-Big (locked)
+1104. 44593763 -> Small-Small-Big-Big-Small-Big-Big-Small (locked)
+1105. 09216946 -> Small-Big-Small-Small-Big-Big-Small-Big (locked)
+1106. 76281331 -> Big-Big-Small-Big-Small-Small-Small-Small (locked)
+1107. 01349486 -> Small-Small-Small-Small-Big-Small-Big-Big (locked)
+1108. 46249603 -> Small-Big-Small-Small-Big-Big-Small-Small (locked)
+1109. 56051990 -> Big-Big-Small-Big-Small-Big-Big-Small (locked)
+1110. 99021080 -> Big-Big-Small-Small-Small-Small-Big-Small (locked)
+1111. 00722960 -> Small-Small-Big-Small-Small-Big-Big-Small (locked)
+1112. 25119392 -> Small-Big-Small-Small-Big-Small-Big-Small (locked)
+1113. 86496150 -> Big-Big-Small-Big-Big-Small-Big-Small (locked)
+1114. 13738195 -> Small-Small-Big-Small-Big-Small-Big-Big (locked)
+1115. 06953253 -> Small-Big-Big-Big-Small-Small-Big-Small (locked)
+1116. 46124277 -> Small-Big-Small-Small-Small-Small-Big-Big (locked)
+1117. 97756353 -> Big-Big-Big-Big-Big-Small-Big-Small (locked)
+1118. 33370860 -> Small-Small-Small-Big-Small-Big-Big-Small (locked)
+1119. 79960781 -> Big-Big-Big-Big-Small-Big-Big-Small (locked)
+1120. 31036449 -> Small-Small-Small-Small-Big-Small-Small-Big (locked)
+1121. 67060532 -> Big-Big-Small-Big-Small-Big-Small-Small (locked)
+1122. 50971084 -> Big-Small-Big-Big-Small-Small-Big-Small (locked)
